@@ -28,7 +28,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    875px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -60,6 +60,7 @@ blockquote {
 
 
 
+
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -75,4 +76,9 @@ blockquote {
 
 a:visited, a:hover {
   color: #002355;
+}
+
+
+address {
+  font-family: Helvetica;
 }
