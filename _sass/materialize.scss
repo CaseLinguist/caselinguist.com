@@ -1,0 +1,69 @@
+// 1. Colors
+// ==========================================================================
+
+
+// $primary-color-light: lighten($primary-color, 15%) !default;
+// $primary-color-dark: darken($primary-color, 15%) !default;
+//
+// $secondary-color: color("teal", "lighten-1") !default;
+// $success-color: color("green", "base") !default;
+// $error-color: color("red", "base") !default;
+// $link-color: color("light-blue", "darken-1") !default;
+
+
+
+// 20. Typography
+// ==========================================================================
+
+$off-black: rgba(0, 0, 0, 0.87) !default;
+// Header Styles
+$h1-fontsize: 4.2rem !default;
+$h2-fontsize: 3.56rem !default;
+$h3-fontsize: 2.92rem !default;
+$h4-fontsize: 2.28rem !default;
+$h5-fontsize: 1.64rem !default;
+$h6-fontsize: .8rem !default;
+
+
+@charset "UTF-8";
+
+// Mixins
+// @import "materialize/prefixer";
+@import "materialize/mixins";
+@import "materialize/color";
+$primary-color: color("blue", "darken-3") !default;
+// Variables;
+@import "materialize/variables";
+
+// Reset
+@import "materialize/normalize";
+
+// materialize
+@import "materialize/global";
+@import "materialize/badges";
+@import "materialize/icons-material-design";
+@import "materialize/grid";
+// @import "materialize/navbar"; // Navbar fine the way it is
+@import "materialize/roboto";
+@import "materialize/typography";
+@import "materialize/transitions";
+@import "materialize/cards";
+@import "materialize/toast";
+@import "materialize/tabs";
+@import "materialize/tooltip";
+@import "materialize/buttons";
+@import "materialize/dropdown";
+@import "materialize/waves";
+@import "materialize/modal";
+@import "materialize/collapsible";
+@import "materialize/chips";
+@import "materialize/materialbox";
+@import "materialize/forms/forms";
+@import "materialize/table_of_contents";
+@import "materialize/sideNav";
+@import "materialize/preloader";
+@import "materialize/slider";
+@import "materialize/carousel";
+@import "materialize/date_picker/default";
+@import "materialize/date_picker/default.date";
+@import "materialize/date_picker/default.time";
