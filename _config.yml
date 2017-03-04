@@ -21,9 +21,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Listed as “registered”  in the Administrative Office of Illinois Courts' Court Interpreter Registry,
   Rene continues to improve through constant practice and refinement of broad legal terminology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://caselinguist.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@caselinguist"
 github_username:  caselinguist
+google_analytics: UA-93007789-1
 
 
 # Build settings
