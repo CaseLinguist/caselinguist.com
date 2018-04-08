@@ -256,7 +256,7 @@ DEPENDENCIES
   jekyll (~> 3.7)
   jekyll-feed (~> 0.6)
   jekyll-haml
-  minima (~> 2.0)
+  minima (~> 2.4)
 
 RUBY VERSION
    ruby 2.5.1p57
