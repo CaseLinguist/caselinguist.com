@@ -72,7 +72,8 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 2.0)
       typhoeus (~> 0.7)
-    haml (4.0.7)
+    haml (5.0.4)
+      temple (>= 0.8.0)
       tilt
     html-pipeline (2.7.1)
       activesupport (>= 2)
@@ -103,7 +104,7 @@ GEM
     jekyll-github-metadata (2.3.1)
       jekyll (~> 3.1)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-haml (0.1.5)
+    jekyll-haml (0.1.6)
       haml (>= 3.0.0)
       jekyll (>= 3.3.0)
     jekyll-mentions (1.2.0)
@@ -193,10 +194,11 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
+    temple (0.8.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
-    tilt (2.0.6)
+    tilt (2.0.8)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
     tzinfo (1.2.5)
@@ -214,7 +216,7 @@ DEPENDENCIES
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.3.7p456
 
 BUNDLED WITH
    1.16.1
