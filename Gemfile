@@ -23,3 +23,8 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-haml"
 end
+
+gem 'jekyll-sitemap'
+# gem 'jekyll-multiple-languages-plugin'
+
+gem "jekyll-polyglot"

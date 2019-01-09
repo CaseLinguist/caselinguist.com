@@ -1,31 +1,44 @@
 ---
 layout: default
+excerpt_separator: <!--more-->
 ---
-{% include card-screenshot.html %}
+
+<!-- BLOG START -->
+<div class="home home-section section">
+  <div class="row">
+    <div class="col s12 m4 l5 ">
 
 
+      <h1 class="page-heading strong-blog-font">Posts</h1>
+
+      {{ content }}
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+          <span class="post-meta strong-blog-font">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link strong-blog-font" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+          <span class="blog-font">{{ post.excerpt }}</span>
+        </li>
+
+        <p class="align-right">
+          <a class="blog-font" href="{{ post.url | relative_url }}"><em class="strong-blog-font">SEE MORE...</em></a>
+        </p>
 
 
+        {% endfor %}
+      </ul>
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    </div>
 
 
-<!-- <div class="home">
+    <div class="col s12 m8 l7">
+      {% include card-screenshot.html %}
+    </div>
 
-  <h1 class="page-heading">Posts</h1>
-
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div> -->
+  </div>
+</div>

@@ -30,6 +30,19 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-multiple-languages-plugin
+  - jekyll-polyglot
 exclude:
   - Gemfile
   - Gemfile.lock
+
+
+# Blog settings
+show_excerpts: true
+
+# Localization
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true

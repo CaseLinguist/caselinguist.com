@@ -129,6 +129,8 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-multiple-languages-plugin (1.6.0)
+      jekyll (>= 2.0, < 4.0)
     jekyll-optional-front-matter (0.3.0)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
@@ -256,10 +258,12 @@ DEPENDENCIES
   jekyll (~> 3.7)
   jekyll-feed (~> 0.6)
   jekyll-haml
+  jekyll-multiple-languages-plugin
+  jekyll-sitemap
   minima (~> 2.4)
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.5.3p105
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
