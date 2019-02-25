@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Case Linguist
+title: Marketing for Lawyers
 business_title: Case Linguist LLC
-email: info@caselinguist.com
+marketing_title: SEO for Small Firms
+email: rene@caselinguist.com
 description: > # this means to ignore newlines until "baseurl:"
-  Spanish Language Interpreter based in Chicago, specializing in courtroom settings. Registered by the Administrative Office of Illinois Courts' Court Interpreter Registry, Rene continues to improve through constant practice and refinement of broad legal terminology.
+  Contact an SEO based in Chicago, specializing in legal marketing. As a background note, René can be found in Illinois Courts' Court Interpreter Registry. Case Linguist LLC offers services that require broad legal terminology as well a register suitable for marketing purposes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://caselinguist.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: caselinguist
@@ -30,9 +31,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  # - jekyll-multiple-languages-plugin
-  - jekyll-polyglot
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -40,9 +38,5 @@ exclude:
 
 # Blog settings
 show_excerpts: true
-
-# Localization
-languages: ["en", "es"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
-parallel_localization: true

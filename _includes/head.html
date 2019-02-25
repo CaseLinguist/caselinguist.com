@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{site.marketing_title}}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <!-- realfavicongenerator.com -->
@@ -13,16 +13,19 @@
   <link rel="icon" type="image/png" href="/assets/fav/favicon-16x16.png" sizes="16x16">
   <link rel="manifest" href="/assets/fav/manifest.json">
   <link rel="mask-icon" href="/assets/fav/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="apple-mobile-web-app-title" content="Case Linguist">
-  <meta name="application-name" content="Case Linguist">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
+  <meta name="application-name" content="{{ site.title }}">
   <meta name="theme-color" content="#ffffff">
 
   <!-- google fonts -->
-  <link href="//fonts.googleapis.com/css?family=Marcellus" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Assistant|Cabin" rel="stylesheet">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js" integrity="sha256-U/cHDMTIHCeMcvehBv1xQ052bPSbJtbuiw4QA9cTKz0=" crossorigin="anonymous"></script>
+
+
 
   <!-- typekit fonts -->
   <link rel="stylesheet" href="https://use.typekit.net/omz2dhn.css">
-  
+
   <!-- font awesome -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
