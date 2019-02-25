@@ -18,9 +18,9 @@ business_title: Case Linguist LLC
 marketing_title: SEO for Small Firms
 email: rene@caselinguist.com
 description: > # this means to ignore newlines until "baseurl:"
-  Contact an SEO based in Chicago, specializing in legal marketing. As a background note, René can be found in Illinois Courts' Court Interpreter Registry. Case Linguist LLC offers services that require broad legal terminology as well as a register suitable for marketing purposes.
+  Contact an SEO based in Chicago specializing in legal marketing. As a background note, René can be found in Illinois Courts' Court Interpreter Registry. Case Linguist LLC offers services that require broad legal terminology as well as a register suitable for marketing purposes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://caselinguist.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marketingforlawyers.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: caselinguist
 github_username:  caselinguist
 google_analytics: UA-93007789-1
