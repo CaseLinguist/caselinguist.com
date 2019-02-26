@@ -39,4 +39,7 @@ exclude:
 # Blog settings
 show_excerpts: true
 default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css"]
+# exclude_from_localization: ["javascript", "images", "css"]
+
+# global permalink settings
+permalink: /:categories/:title-:month-:day-:year:output_ext
