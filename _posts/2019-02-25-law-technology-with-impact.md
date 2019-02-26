@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Law Technology with Impact"
+title:  "Your Law Technology with Impact"
 
 lang: en
 categories: Law-Firm-SEO
