@@ -5,6 +5,7 @@ title:  "Law Technology with Impact"
 lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
+author: Rene M. Paccha
 ---
 
 
