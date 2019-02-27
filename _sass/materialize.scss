@@ -10,7 +10,7 @@ $primary-color: color("blue", "darken-3") !default;
 
 
 // Reset
-@import "materialize/components/normalize";
+// @import "materialize/components/normalize"; dont re-normalize (minima)
 
 // materialize/components
 @import "materialize/components/global";
