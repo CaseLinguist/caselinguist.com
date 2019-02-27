@@ -8,15 +8,15 @@
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <!-- realfavicongenerator.com -->
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/fav/apple-touch-icon.png?v=XBJXMzz8jN">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/fav/favicon-32x32.png?v=XBJXMzz8jN">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/fav/favicon-16x16.png?v=XBJXMzz8jN">
-  <link rel="manifest" href="assets/fav/site.webmanifest?v=XBJXMzz8jN">
-  <link rel="shortcut icon" href="assets/fav/favicon.ico?v=XBJXMzz8jN">
+  <link rel="apple-touch-icon" sizes="180x180" href='{{ "/assets/fav/apple-touch-icon.png?v=XBJXMzz8jN" | relative_url }}'>
+  <link rel="icon" type="image/png" sizes="32x32" href='{{ "/assets/fav/favicon-32x32.png?v=XBJXMzz8jN" | relative_url }}'>
+  <link rel="icon" type="image/png" sizes="16x16" href='{{ "/assets/fav/favicon-16x16.png?v=XBJXMzz8jN" | relative_url }}'>
+  <link rel="manifest" href='{{ "/assets/fav/site.webmanifest?v=XBJXMzz8jN" | relative_url }}'>
+  <link rel="shortcut icon" href='{{ "/assets/fav/favicon.ico?v=XBJXMzz8jN" | relative_url }}'>
   <meta name="apple-mobile-web-app-title" content="Marketing for Lawyers">
   <meta name="application-name" content="Marketing for Lawyers">
   <meta name="msapplication-TileColor" content="#2b5797">
-  <meta name="msapplication-config" content="assets/fav/browserconfig.xml?v=XBJXMzz8jN">
+  <meta name="msapplication-config" content='{{ /"assets/fav/browserconfig.xml?v=XBJXMzz8jN" | relative_url }}'>
   <meta name="theme-color" content="#000000">
 
   <!-- google fonts -->
@@ -31,7 +31,7 @@
   <script src="https://js.braintreegateway.com/web/dropin/1.16.0/js/dropin.min.js"></script>
 
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href='{{ "/assets/main.css" | relative_url }}'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 

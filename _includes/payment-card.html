@@ -24,3 +24,25 @@
     </div>
   </div>
 </div>
+
+
+<script>
+var button = document.querySelector('#submit-button');
+var tokenizationKey = 'sandbox_t8qqbp4r_k4g8wqgx66xht83b'
+
+braintree.dropin.create({
+  authorization: tokenizationKey,
+  container: '#dropin-container',
+  paypal: {
+    flow: 'checkout',
+    amount: '495.00',
+    currency: 'USD'
+  }
+}, function (createErr, instance) {
+  button.addEventListener('click', function () {
+    instance.requestPaymentMethod(function (requestPaymentMethodErr, payload) {
+      // Submit payload.nonce to your server
+    });
+  });
+});
+</script>
