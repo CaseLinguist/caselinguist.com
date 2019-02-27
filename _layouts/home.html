@@ -20,15 +20,15 @@ excerpt_separator: <!--more-->
           <span class='blog-font'>{{ post.excerpt }}</span>
         </li>
         <p class='align-right'>
-          <a class='blog-font' href='{{ post.url | relative_url }}'>
-            <em class='strong-blog-font'>Keep Reading...</em>
+          <a class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
+              Keep Reading...
           </a>
         </p>
         {% endfor %}
       </ul>
       <p class='rss-subscribe'>
         subscribe
-        <a href='{{ "/feed.xml" | relative_url }}'>via RSS</a>
+        <a class="flow-text" href='{{ "/feed.xml" | relative_url }}'>via RSS</a>
       </p>
     </div>
     <div class='col s12 m8 l7'>
@@ -36,7 +36,7 @@ excerpt_separator: <!--more-->
     </div>
     <div class='row'>
       <div class='col s12 m8 l7'>
-        {% include payment-card.html %}
+        <!-- {% include payment-card.html %} -->
       </div>
     </div>
   </div>
