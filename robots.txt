@@ -1,3 +1,3 @@
 Sitemap: http://marketingforlawyers.org/sitemap.xml
 User-agent: *
-Disallow:
+Disallow: /payment-test
