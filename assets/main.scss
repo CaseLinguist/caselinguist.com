@@ -55,6 +55,11 @@ h1, h2, h3, h4, h5, p, li, span {
 @import "minima";
 @import 'materialize';
 
+.ilike-amber-container {
+  @extend .amber, .lighten-1;
+}
+
+
 a:visited, a:hover {
   color: #002355;
 }

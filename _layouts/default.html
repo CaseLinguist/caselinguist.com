@@ -17,7 +17,50 @@
     {% include footer.html %}
   </div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js" integrity="sha256-U/cHDMTIHCeMcvehBv1xQ052bPSbJtbuiw4QA9cTKz0=" crossorigin="anonymous"></script>
+
+  <script>
+  var button = document.querySelector('#submit-button');
+  var tokenizationKey = 'production_q96f845y_m93h25ypnmfq7hmq'
+
+  braintree.dropin.create({
+    authorization: tokenizationKey,
+    container: '#dropin-container',
+    paypal: {
+      flow: 'checkout',
+      amount: '495.00',
+      currency: 'USD'
+    }
+  }, function (createErr, instance) {
+    button.addEventListener('click', function () {
+      instance.requestPaymentMethod(function (requestPaymentMethodErr, payload) {
+        // Submit payload.nonce to your server
+      });
+    });
+  });
+  </script>
+
+
+  <!--  Test script-->
+  <script>
+  var button = document.querySelector('#submit-button-test');
+  var tokenizationKey = 'production_q96f845y_m93h25ypnmfq7hmq'
+
+  braintree.dropin.create({
+    authorization: tokenizationKey,
+    container: '#dropin-container-test',
+    paypal: {
+      flow: 'checkout',
+      amount: '1.00',
+      currency: 'USD'
+    }
+  }, function (createErr, instance) {
+    button.addEventListener('click', function () {
+      instance.requestPaymentMethod(function (requestPaymentMethodErr, payload) {
+        // Submit payload.nonce to your server
+      });
+    });
+  });
+  </script>
   </body>
 
 </html>
