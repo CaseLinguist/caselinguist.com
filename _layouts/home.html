@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
       </h1>
       {{ content }}
       <ul class='post-list'>
-        {% for post in site.posts %}
+        {% for post in site.posts limit:1 %}
         <li>
           <span class='post-meta strong-blog-font'>{{ post.date | date: "%b %-d, %Y" }}</span>
           <h2>
@@ -26,10 +26,8 @@ excerpt_separator: <!--more-->
         </p>
         {% endfor %}
       </ul>
-      <p class='rss-subscribe'>
-        subscribe
-        <a class="flow-text" href='{{ "/feed.xml" | relative_url }}'>via RSS</a>
-      </p>
+
+      <!-- TODO: Place button for pricing here -->
     </div>
     <div class='col s12 m8 l7'>
       {% include card-screenshot.html %}
