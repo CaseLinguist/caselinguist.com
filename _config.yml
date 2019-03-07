@@ -43,3 +43,8 @@ default_lang: "en"
 
 # global permalink settings
 permalink: /:categories/:title-:month-:day-:year:output_ext
+
+collections:
+  pricing:
+    output: true
+    pricing_level: "comprehensive"

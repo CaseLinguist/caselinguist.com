@@ -21,20 +21,32 @@ excerpt_separator: <!--more-->
         </li>
         <p class='align-right'>
           <a class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
-              Keep Reading...
+            Keep Reading...
           </a>
         </p>
         {% endfor %}
+        <!-- Note: add tag list or some way to eventually get to an old post -->
       </ul>
 
-      <!-- TODO: Place button for pricing here -->
+
     </div>
     <div class='col s12 m8 l7'>
       {% include card-screenshot.html %}
     </div>
     <div class='row'>
       <div class='col s12 m8 l7'>
-        <!-- {% include payment-card.html %} -->
+        <div class="collection">
+          {% for topic in site.pricing %}
+
+
+
+              <a href="{{ topic.url }}"  class="collection-item"><span class="badge">{{ topic.name }}</span>SEO for {{ topic.name }} law firms at {{ topic.pricing }} pricing</a>
+
+
+
+
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
