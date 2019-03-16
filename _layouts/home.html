@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
       </h1>
       {{ content }}
       <ul class='post-list'>
-        {% for post in site.posts limit:1 %}
+        {% for post in site.posts limit:1 offset:1 %}
         <li>
           <span class='post-meta strong-blog-font'>{{ post.date | date: "%b %-d, %Y" }}</span>
           <h2>
@@ -33,21 +33,52 @@ excerpt_separator: <!--more-->
     <div class='col s12 m8 l7'>
       {% include card-screenshot.html %}
     </div>
-    <div class='row'>
+    <!-- pricing -->
+    <!-- <div class='row'>
       <div class='col s12 m8 l7'>
         <div class="collection">
           {% for topic in site.pricing %}
-
-
-
               <a href="{{ topic.url }}"  class="collection-item"><span class="badge">{{ topic.name }}</span>SEO for {{ topic.name }} law firms at {{ topic.pricing }} pricing</a>
-
-
-
-
           {% endfor %}
         </div>
       </div>
+    </div> -->
+    <!-- end pricing -->
+  </div>
+
+  <div class="row">
+    <div class="col s12"></div>
+
+
+
+    <div class="col s7 offset-s5">
+      <!-- <hr /> -->
+
     </div>
+
+  </div>
+
+
+
+  <div class="row">
+    <div class="col m12">
+      {% for post in site.posts limit:1  %}
+      {% assign currentdate = post.date | date: "%B" %}
+      {% if currentdate != date %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <div class="chip">
+        <span id="y{{post.date | date: "%Y"}}">{{ currentdate }}</span>
+
+      </div>
+
+      <ul>
+        {% assign date = currentdate %}
+        {% endif %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% if forloop.last %}</ul>{% endif %}
+        {% endfor %}
+
+    </div>
+
   </div>
 </div>
