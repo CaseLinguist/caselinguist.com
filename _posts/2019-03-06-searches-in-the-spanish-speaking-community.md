@@ -34,7 +34,7 @@ Spanish Speaking Client Searches
 
 ### Other SEO-related considerations
 
-*   Top results may lead to overseases results and even advice.
+*   Top results may lead to overseas results and even advice.
 *   Confusion over the correct translation among searches (that which is meaningful, beyond literal) is an unaddressed barrier to legal services
 
 \-R
