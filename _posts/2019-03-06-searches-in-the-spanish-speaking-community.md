@@ -1,10 +1,11 @@
 ---
 title: "Not all clients type English in search"
-layout: post 
+layout: post
 lang: en
 categories: Law-Firm-SEO Immigration
 tags: Law Technology
 author: Rene M. Paccha
+chart: true
 ---
 
 SEO considerations must be made for Criminal and Immigration court bound clients that speak a foreign language. Searches happen in Spanish, too.
