@@ -10,12 +10,12 @@ author: Rene M. Paccha
 
 
 
+Hello, My name is René and I run Marketing for Lawyers for small firms.  These are flexible services also applicable to solo practice.
 
-Hello, My name is René and I run Marketing for Lawyers for small firms.  These flexible services also serve lawyers starting a solo practice.
-As an SEO at Case Linguist LLC, my superficial knowledge of the legal system is coupled with a style of research and client reporting I enjoy.
+Researching SEO takes linguistic court interpreter training (in Spanish), as I patiently combine my superficial knowledge of the legal system with a style of data reporting and client interaction I enjoy.
 
-Having clients get to and engage your impactful legal services is an aim I care about.  Lawyers that would benefit from digital technology services are those opening a legal office. The 'before picture' can be an attorney who has started a webpage and may already write content on their website. Nevertheless, the attorney notices very little marketing edge over direct competitors.
+After a phone call to get set up, plan on having clients better locate your impactful legal services through online engagement. Lawyers that would benefit from digital technology services are those recently opening a legal office. Nevertheless, the aim is to have the principal attorney notice an edge over a selection of direct competitors you have ...and organic competitors you were not aware of.
 
-After working with a Case Linguist SEO, you will find out who your search engine competitors are.  
+Work with an SEO that specializes in the good work that you do.
 
 -R
