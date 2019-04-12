@@ -11,7 +11,7 @@ pinned: true
 
 
 
-Hello, My name is René and I run Marketing for Lawyers for small firms.  These are flexible services also applicable to solo practice.
+Hello, My name is René and I run Marketing for Lawyers for small firms.  These are flexible services also applicable to a solo practice.
 
 Researching SEO takes linguistic court interpreter training (in Spanish), as I patiently combine my superficial knowledge of the legal system with a style of data reporting and client interaction I enjoy.
 
