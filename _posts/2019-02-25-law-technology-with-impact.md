@@ -16,6 +16,6 @@ In researching and building an SEO strategy, I draw on my training as a court in
 
 After a phone call to get set up, plan on having clients better locate your impactful legal services through online engagement. Lawyers that would benefit from law SEO are those seeking an edge over a selection of direct competitors.   Additionally, there might certainly be organic competitors you were not aware of.
 
-Work with an SEO that specializes in the good work that you do.
+Start collaborating with an SEO that specializes in the good work that you do.
 
 -R
