@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Law Technology with Impact"
-
 lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
@@ -11,12 +10,12 @@ pinned: true
 
 
 
-Hello, My name is René and I run Marketing for Lawyers for small firms.  These are flexible services also applicable to solo practice.
+Hello, My name is René and I run Marketing for Lawyers. I offer flexible SEO services for small firms and solo practice.
 
-Researching SEO takes linguistic court interpreter training (in Spanish), as I patiently combine my superficial knowledge of the legal system with a style of data reporting and client interaction I enjoy.
+In researching and building an SEO strategy, I draw on my training as a court interpreter training (in Spanish). I bring my knowledge of legal marketing with my understanding of online data visualization to create a unique SEO plan for each client.
 
-After a phone call to get set up, plan on having clients better locate your impactful legal services through online engagement. Lawyers that would benefit from digital technology services are those recently opening a legal office. Nevertheless, the aim is to have the principal attorney notice an edge over a selection of direct competitors you have ...and organic competitors you were not aware of.
+After a phone call to get set up, plan on having clients better locate your impactful legal services through online engagement. Lawyers that would benefit from law SEO are those seeking an edge over a selection of direct competitors.   Additionally, there might certainly be organic competitors you were not aware of.
 
-Work with an SEO that specializes in the good work that you do.
+Start collaborating with an SEO that specializes in the good work that you do.
 
 -R
