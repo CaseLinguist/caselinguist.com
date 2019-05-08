@@ -10,7 +10,9 @@ pinned: true
 
 
 
-Hello, My name is [René]({{ "/about/" | relative_url }} "About Case Linguist LLC"), and I run Marketing for Lawyers. I offer flexible SEO services for small firms and solo practice.
+Hello,
+
+My name is [René]({{ "/about/" | relative_url }} "About Case Linguist LLC"), and I run Marketing for Lawyers. I offer flexible SEO services for small firms and solo practice.
 
 In researching and building an SEO strategy, I draw on my training as a court interpreter training (in Spanish). I bring my knowledge of legal marketing and my understanding of online data visualization to create a unique SEO plan for each client.
 
