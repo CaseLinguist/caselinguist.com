@@ -20,4 +20,4 @@ In a relatively short amount of time, you can plan on having clients better loca
 
 Start collaborating with an SEO that specializes in the good work that you do.
 
--R
+-René
