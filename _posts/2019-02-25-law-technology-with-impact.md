@@ -16,7 +16,7 @@ My name is [René]({{ "/about/" | relative_url }} "About Case Linguist LLC"), an
 
 In researching and building an SEO strategy, I draw on my training as a court interpreter training (in Spanish). I bring my knowledge of legal marketing and my understanding of online data visualization to create a unique SEO plan for each client.
 
-In a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   In addition, you might become aware of prospective clients you have not previously considered or attracted to you business.
+In a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   In addition, you might become aware of prospective clients you have not previously considered or attracted to your business.
 
 Start collaborating with an SEO that specializes in the good work that you do.
 
