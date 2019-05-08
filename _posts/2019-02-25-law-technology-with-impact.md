@@ -14,7 +14,7 @@ Hello, My name is [René]({{ "/about/" | relative_url }} "About Case Linguist LL
 
 In researching and building an SEO strategy, I draw on my training as a court interpreter training (in Spanish). I bring my knowledge of legal marketing and my understanding of online data visualization to create a unique SEO plan for each client.
 
-After a phone call to get set up, in a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   Additionally, there might certainly be organic competitors you were not aware of.
+After a phone call to get set up, in a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   In addition, you might be come aware of prospective clients you have not previously considered or attracted to you business.
 
 Start collaborating with an SEO that specializes in the good work that you do.
 
