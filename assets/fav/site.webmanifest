@@ -1,19 +1,19 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Marketing for Lawyers",
+    "short_name": "Marketing for Lawyers",
     "icons": [
         {
-            "src": "/assets/fav/android-chrome-192x192.png",
+            "src": "/assets/fav/android-chrome-192x192.png?v=NmP7vN2QE7",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/fav/android-chrome-384x384.png",
-            "sizes": "384x384",
+            "src": "/assets/fav/android-chrome-256x256.png?v=NmP7vN2QE7",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#5fa0a1",
+    "background_color": "#5fa0a1",
     "display": "standalone"
 }
