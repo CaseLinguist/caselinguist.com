@@ -6,16 +6,19 @@ categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
 pinned: true
+excerpt_separator: <!--more-->
 ---
 
 
 
-Hello, My name is René and I run Marketing for Lawyers. I offer flexible SEO services for small firms and solo practice.
+Hello,
 
-In researching and building an SEO strategy, I draw on my training as a court interpreter training (in Spanish). I bring my knowledge of legal marketing with my understanding of online data visualization to create a unique SEO plan for each client.
+My name is [René]({{ "/about/" | relative_url }} "About Case Linguist LLC"), and I run Marketing for Lawyers. I offer flexible SEO services for small firms and solo practice.
 
-After a phone call to get set up, plan on having clients better locate your impactful legal services through online engagement. Lawyers that would benefit from law SEO are those seeking an edge over a selection of direct competitors.   Additionally, there might certainly be organic competitors you were not aware of.
+In researching and building an SEO strategy, I draw on my training as a court interpreter (in Spanish). I bring my knowledge of legal marketing and my understanding of online data visualization to create a unique SEO plan for each client.
+<!--more-->
+In a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   In addition, you might become aware of prospective clients you have not previously considered or attracted to your business.
 
 Start collaborating with an SEO that specializes in the good work that you do.
 
--R
+-René

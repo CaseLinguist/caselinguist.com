@@ -7,10 +7,10 @@
 // $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $base-font-family: 'Rokkitt', serif !default;
 
- // $base-font-family:'Raleway', sans-serif; // NOTE: LOOKS SQUISHED   7/10
+// $base-font-family:'Raleway', sans-serif; // NOTE: LOOKS SQUISHED   7/10
 
- $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
- // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
+$base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
+// $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
 
 
 
@@ -39,11 +39,11 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 .title-text {
-    letter-spacing: 3px;
+  letter-spacing: 3px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-// font-family: 'Assistant', sans-serif;
-// font-family: 'Cabin', sans-serif;
+  // font-family: 'Assistant', sans-serif;
+  // font-family: 'Cabin', sans-serif;
 }
 
 .post-title {
@@ -55,10 +55,10 @@ h1, h2, h3, h4, h5, p, li, span {
 }
 
 #pew-hispanic-container {
-	min-width: 310px;
-	// max-width: 800px;
-	height: 400px;
-	margin: auto auto
+  min-width: 310px;
+  // max-width: 800px;
+  height: 400px;
+  margin: auto auto
 }
 
 @import "minima";
@@ -94,11 +94,84 @@ a:visited, a:hover {
 }
 
 .page-footer {
-    padding-top: 0px;
-    color: #fff;
-    background-color: #1565C0;
+  padding-top: 0px;
+  color: #fff;
+  background-color: #1565C0;
 }
 
 .site-header {
-    border-bottom: none;
- }
+  // border-top: 5px solid #5fa0a1;
+  border-bottom: none;
+}
+
+// CSS splash-section addition
+.heading-jumbo {
+  margin-top:10px;
+  margin-bottom: 10px;
+  font-size: 64px;
+  line-height: 80px;
+  text-transform: none;
+}
+
+.paragraph-light {
+  opacity: 0.6;
+}
+
+.name-text {
+
+  font-size: 20px;
+  line-height: 34px;
+  font-weight: 300;
+
+}
+
+.intro-wrap {
+  font-family: 'Assistant', sans-serif;
+  margin-top: 80px;
+  margin-bottom: 140px;
+}
+
+.msg-container {
+  width: 100%;
+  max-width: 1145px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.spash-section {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+@media (max-width: 991px) {
+  .heading-jumbo {
+    font-size: 56px;
+    line-height: 70px;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .heading-jumbo {
+    font-size: 50px;
+    line-height: 64px;
+  }
+
+  .msg-container {
+    text-align: center;
+  }
+
+
+  .spash-section {
+
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 479px) {
+  .heading-jumbo {
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
