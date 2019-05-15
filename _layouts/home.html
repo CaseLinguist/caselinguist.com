@@ -73,52 +73,53 @@ excerpt_separator: <!--more-->
   <br/>
 
   <div class="col s12 m6 l3">
-    <div class="card-panel">
-      <div class="row v-align-wrapper">
+    <div class="row v-align-wrapper">
 
-        <div class="posts-list">
-          <div class="col s12 m6">
+      <div class="posts-list">
+        <div class="col s12 m6 secondary-container">
 
-            <br />
-            <h3 class='page-heading strong-blog-font'>
-              Posts
-            </h3>
+          <br />
+          <h3 class='page-heading strong-blog-font'>
+            Posts
+          </h3>
 
-            {% for post in site.posts limit:1  %}
-            {% assign currentdate = post.date | date: "%Y %B" %}
-            {% if currentdate != date %}
-            {% unless forloop.first %}</ul>{% endunless %}
-            <span id="y{{post.date | date: "%Y %B"}}">{{currentdate}}</span>
-            <ul class="collection with-header">
-              {% assign date = currentdate %}
-              {% endif %}
-              <li>
+          {% for post in site.posts limit:1  %}
+          {% assign currentdate = post.date | date: "%Y %B" %}
+          {% if currentdate != date %}
+          {% unless forloop.first %}</ul>{% endunless %}
+          <span id="y{{post.date | date: "%Y %B"}}">{{currentdate}}</span>
+          <ul class="collection with-header">
+            {% assign date = currentdate %}
+            {% endif %}
+            <li>
 
-                <a href="{{ post.url }}">
-                <div class="collection-item">
-                  <span class="badge  btn btn-small btn-flat waves-effect waves-blue ilike-blue-container ">{{ post.date | date:"%m/%d" }}</span>
-                      {{ post.title }}
-                </div>
+              <a href="{{ post.url }}">
+              <div class="collection-item">
+                <span class="badge  btn btn-small btn-flat waves-effect waves-blue ilike-blue-container ">{{ post.date | date:"%m/%d" }}</span>
+                    {{ post.title }}
+              </div>
 
-              </a>
+            </a>
 
-            </li>
-              {% if forloop.last %}</ul>{% endif %}
-              {% endfor %}
-
-            </div>
-
-
-        <!-- image start -->
-        <div class="col s12 m6">
-          <!-- image -->
-          <img class="materialboxed center-align responsive-img " width="650" src="{{ '/assets/rene-m-paccha-chicago-250.png' | relative_url }}" srcset="{{ '/assets/rene-m-paccha-chicago-500.png' | relative_url }} 500w, {{ '/assets/rene-m-paccha-chicago.png' | relative_url }} 1000w" alt="rene m paccha professional headshot with willis tower background">
-        </div>
-
-        <!-- post list -->
+          </li>
+            {% if forloop.last %}</ul>{% endif %}
+            {% endfor %}
 
           </div>
+
+
+      <!-- image start -->
+      <div class="col s12 m6">
+        <!-- image -->
+        <img class="materialboxed center-align responsive-img " width="650" src="{{ '/assets/rene-m-paccha-chicago-250.png' | relative_url }}" srcset="{{ '/assets/rene-m-paccha-chicago-500.png' | relative_url }} 500w, {{ '/assets/rene-m-paccha-chicago.png' | relative_url }} 1000w" alt="rene m paccha professional headshot with willis tower background">
+      </div>
+
+      <!-- post list -->
+
         </div>
+    </div>
+    
+    <div class="card-panel busy-card">
       </div>
     </div>
   </div>
