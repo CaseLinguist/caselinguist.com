@@ -88,7 +88,7 @@ excerpt_separator: <!--more-->
                 </h3>
               </li>
 
-              {% for post in site.posts limit:9 | reverse %}
+              {% for post in site.posts limit:9 %}
 
               {% assign currentdate = post.date | date: "%b %e - %a" %}
               {% if currentdate != date %}
@@ -125,7 +125,7 @@ excerpt_separator: <!--more-->
   <div class="divider"></div>
   <div class="section">
 
-      <a href="{{ '/about' | relative_url }}"><h4 class="flow-text">Based in Chicago, IL</h4></a>    
+      <a href="{{ '/about' | relative_url }}"><h4 class="flow-text">Based in Chicago, IL</h4></a>
     <!-- image start -->
     <div class="col s12 m6">
 
