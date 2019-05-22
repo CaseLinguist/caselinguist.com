@@ -10,8 +10,8 @@ excerpt_separator: <!--more-->
 ---
 
 
-## Example East-West Coast
-With a gathered set of keywords, starting the literal translation process at this point hinders the objective of tracking the correct meaning from keyword volume data.
+
+Is it possible to translate keyword choices at a stage that hinders the objective?
 
 Imagine that one SEO gets to work on a piece of a project. Now that SEO completes the first round of data-gathering for the first leg of the task. On an optimized text, we recognize the nuances between how one phrase is used in, for example, the midwest vs how it's used on the west coast.  Using this, or any example, how do we begin to ”enhance” that which we have already ”enhanced”?
 
