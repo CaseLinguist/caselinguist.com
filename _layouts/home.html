@@ -27,7 +27,8 @@ excerpt_separator: <!--more-->
   <!-- Pinned Post -->
   <!-- ok -->
   <div class='row'>
-    <div class=''>
+    <div class='featured post'>
+      <div class=""><h4>Featured Post</h4></div>
 
       {{ content }}
       <ul class='post-list'>
@@ -83,9 +84,9 @@ excerpt_separator: <!--more-->
             <ul class="collection with-header">
               <!-- set post limit -->
               <li class="collection-header">
-                <h3 class='page-heading strong-blog-font'>
-                  Posts
-                </h3>
+                <h4 class='page-heading '>
+                  Blog
+                </h4>
               </li>
 
               {% for post in site.posts limit:9 %}
