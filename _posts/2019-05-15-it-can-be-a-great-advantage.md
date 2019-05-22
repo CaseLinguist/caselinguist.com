@@ -9,7 +9,7 @@ pinned: true
 excerpt_separator: <!--more-->
 ---
 
-Imagine that one SEO gets to work on a piece of a project. As that SEO nears gathering the possibilites for the first task. Let's recognize the nuances between how one phrase is used in the midwest vs how it's used on the west coast -- or better yet,  How to ”enhance” that which we have already ”enhanced”.
+Imagine that one SEO gets to work on a piece of a project. As that SEO nears gathering the possibilites for the first task. Let's recognize the nuances between how one phrase is used in the midwest vs how it's used on the west coast -- or better yet,  A different example. How do we begin to ”enhance” that which we have already ”enhanced”.
 
 With a gathered set of keywords, starting the literal translation process at this point hinders the objective of tracking the correct meaning in keyword volume.
 
