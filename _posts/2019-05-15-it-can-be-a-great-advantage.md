@@ -9,11 +9,9 @@ pinned: true
 excerpt_separator: <!--more-->
 ---
 
-
-
 Is it possible to translate keyword choices at a stage that hinders the objective?
 
-Imagine that one SEO gets to work on a piece of a project. Now that SEO completes the first round of data-gathering for the first leg of the task. On an optimized text, we recognize the nuances between how one phrase is spoken and searched.  Using this, or any example, how do we begin to ”enhance” that which we have already ”enhanced” when attaching the task of translation?
+Imagine that one SEO gets to work on a project. Now that SEO completes the first round of data-gathering for the first leg of the task. On an optimized text, we recognize the nuances between how one phrase is spoken and searched.  Using this, or any example, how do we begin to ”enhance” that which we have already ”enhanced” when attaching the task of translation?
 
 A powerful big data agency is large enough to gather or infer success metrics using a plethora of translators, reviewers,  and if SEO sat on an x,y plane, its on the negative side.  The ”quality assurance” reviewers become as close as you can get to effective SEOs and a critical point in the process.
 
