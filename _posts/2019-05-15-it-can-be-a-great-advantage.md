@@ -18,7 +18,7 @@ A large agency might favor the outsourcing path.  While beneficial to gather met
 
 That brings me to the question of ”are you ok with the idea of your business being someone else's guinea pig?
 
-A job that should require ”a strong ear” to the flows of information is in the above circumstance static at best.  
+The job requires a keen ear to the flows of information.  The fight is to dispense with static snapshots as the deliverable, where dynamic readouts are crucial.
 
 Keyword research, whether in Spanish or not, must be dynamic -- or risk ending up in the snapshot-scape that is constantly and  quietly lagging.
 
