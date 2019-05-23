@@ -25,9 +25,6 @@ Keyword research, whether in Spanish or not, must be dynamic -- or risk ending u
 
 With a gathered set of keywords, starting the literal translation process at this point hinders the objective.    Instead of tracking the correct meaning in through keyword volume tools,  we have left the meaning behind on the workshopped area of user intent.
 
-
-
-
 Advantages fo using the same SEO as translator
 It can be a great advantage to rely on the same SEO expert for content strategy and translation services. Otherwise, you might lose important details in the process to and from the SEO content strategist and the translator.
 
