@@ -16,11 +16,9 @@ Imagine that one SEO gets to work on a project. Now that SEO completes the first
 ###  The Quality Path
 A large agency might favor the outsourcing path.  While beneficial to gather metrics using a plethora of translators, reviewers,  the success axis trims on the negative side.  The ”quality assurance” reviewers become as close as you can get to effective SEOs and a critical point in the process.
 
-That brings me to the question of ”are you ok with the idea of your business being someone else's guinea pig?
+The fight is to dispense with static snapshots as the deliverable, where dynamic readouts are crucial. 
 
-The job requires a keen ear to the flows of information.  The fight is to dispense with static snapshots as the deliverable, where dynamic readouts are crucial.
-
-Keyword research, whether in Spanish or not, must be dynamic -- or risk ending up in the snapshot-scape that is constantly and quietly lagging.
+The job of translation and SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk a process that is quietly lagging.
 
 With a gathered set of keywords, starting the literal translation process at this point hinders the objective.   Instead of tracking the correct meaning through careful research and keyword volume tools,  we have left the meaning behind on the workshop floor of user intent.
 
