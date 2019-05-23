@@ -20,7 +20,7 @@ The fight is to dispense with static snapshots as the deliverable, where dynamic
 
 The job of translation and SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk a process that is quietly lagging.
 
-With a gathered set of keywords, starting the literal translation process at this point hinders the objective.   Instead of tracking the correct meaning through careful research and keyword volume tools,  we have left the meaning behind on the workshop floor of user intent.
+With a gathered set of keywords, starting the literal translation process at this point hinders the objective.   Instead of tracking the correct meaning through careful research and keyword volume tools,  we have left the meaning behind and instead introduced ”literal” interpretations.
 
 Advantages for using the same SEO as translator  and content strategy lets you keep details you pay for.
 
