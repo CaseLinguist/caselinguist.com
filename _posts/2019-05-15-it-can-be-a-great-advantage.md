@@ -22,6 +22,6 @@ The job of translation and SEO requires a keen ear to the flows of information. 
 
 With a gathered set of keywords, starting the literal translation process at this point hinders the objective.   Instead of tracking the correct meaning through careful research and keyword volume tools,  we have left the meaning behind and instead introduced ”literal” interpretations.
 
-Advantages for using the same SEO as translator  and content strategy lets you keep details you pay for.
+Advantages like using the same professional for both SEO as a translator and as content analyst lets you directly address the value of SEO in Spanish.
 
 -René
