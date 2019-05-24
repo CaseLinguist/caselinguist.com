@@ -16,7 +16,7 @@ One SEO is tasked with and initializes a workflow for your website.  As expected
 ### Turning to Spanish language set. 
 How do we make sure we have not basically entered into a benign post-processing step? Imagine early tech in films; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we begin to ”enhance” that which we have already ”enhanced?”  This is the moment of translation when optimization is most important -- yet the modern SEO is at risk of being left detached from the crucial process of scoping high-value intent at the moment where a proper foundation is built.
 
-A large agency might favor the outsourcing path.  While beneficial to gather metrics using a plethora of translators, reviewers,  the success axis trims on the negative side.  The ”quality assurance” reviewers become as close as you can get to effective SEOs and a critical point in the process.
+A large agency might favor the outsourcing path.  Remaining beneficial to gather metrics using a plethora of translators, reviewers,  proof readers.  The succes of spanish SEO success may trim and fall short to the negative side: ineffective translation of once optimized content -- content suited for bot consumption in English.   The ”quality assurance” reviewers are all that may be as close as you can get to capable SEOs at a critical point in the process.
 
 The fight is to dispense with static snapshots as the deliverable, where dynamic readouts are crucial. 
 
