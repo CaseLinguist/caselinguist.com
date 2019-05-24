@@ -11,12 +11,12 @@ excerpt_separator: <!--more-->
 
 Is it possible to target keywords at a stage that hinders the objective?
 
-One SEO is tasked with and initializes a analysis-based workflow for your website.  As expected, the analyst completes the first round of data-gathering for the first leg of work -- creating the pool of possible words to focus on.  On an optimized text, recognizing nuances between one written phrase and its closest peer is at the core of having a human work on this crucial gathering  process.  
+One SEO is tasked with and initializes a analysis-based workflow for your website.  As expected, the analyst completes the first round of data-gathering  -- creating the pool of possible words to focus on.  On an optimized text, recognizing nuances between one written phrase and its closest peer is at the core of having a human work on this crucial gathering  process.  
 
 ### Spanish language word set
-How do we make sure we have not basically entered into a benign post-processing step? Imagine early tech in films; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we begin to ”enhance” that which we have already ”enhanced?”  This is the moment of translation when optimization is most important -- yet the modern SEO is at risk of being left detached from the crucial process of scoping high-value intent at the moment where a proper foundation is built.
+How do we make sure we have not basically entered into a benign post-processing step? Imagine, like I am, early tech in films; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we begin to ”enhance” that which we have already ”enhanced?”  This is the moment of translation when optimization is most important -- yet the modern SEO is at risk of being left detached from the crucial process of scoping high-value intent at the moment where a proper foundation is built.
 
-A large agency might favor the outsourcing path.  Remaining beneficial to gather metrics using a plethora of translators, reviewers,  proof readers.  The succes of spanish SEO success may trim and fall short to the negative side: ineffective translation of once optimized content -- content suited for bot consumption in English.   The ”quality assurance” reviewers are all that may be as close as you can get to capable SEOs at a critical point in the process.
+A large agency might favor the translation outsourcing path.  The risk here is to lose the ability to remain beneficial and to gather metrics using a plethora of translators, reviewers,  proof readers.  The succes of spanish SEO success may trim and fall short to the negative side: ineffective translation of once optimized content -- content suited for bot consumption in English.   The ”quality assurance” reviewers are all that may be as close as you can get to capable SEOs at a critical point in the process.
 
 The fight is to dispense with static snapshots as the deliverable, where dynamic readouts are crucial. 
 
