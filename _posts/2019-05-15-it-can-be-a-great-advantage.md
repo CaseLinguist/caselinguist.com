@@ -19,9 +19,10 @@ One SEO is tasked with and initializes a analysis-based workflow for your websit
 ### Tiny losses
 A large agency might favor the translation outsourcing path.  The risk here is to lose the ability to remain beneficial and to gather metrics using a plethora of translators, reviewers and proofreaders.  The success of Spanish SEO success may trim and fall short to the negativity of ineffective translation. Once optimized, content suited for bot consumption in English is exported to ”quality assurance” reviewers of the coherence of the language at best.  Beware, as with a large agency, that level of detail may be as close as you can get to capable SEOs at a critical point in the process.
 
-The job of translation and SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk accepting a process that is quietly lagging.
-
 With a gathered set of keywords, SEO expertise starting through this point supports the objective.  It is proposed to track the correct meaning throughout.  Careful research through keyword volume tools inherently lets us weed out raw ”literal” translations.
+
+### Conclusion
+The job of SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk accepting a process that is quietly lagging.
 
 The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.
 
