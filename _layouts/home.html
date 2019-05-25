@@ -113,6 +113,12 @@ excerpt_separator: <!--more-->
                       </div>
                     </span>
                   </div>
+
+                  <!-- for small devices -->
+                  <div class="show-on-small hide-on-med-and-up">
+                    <span id='y_{{post.date | date: "%Y_%B"}}' class="shifty-date date-sub-display">{{currentdate}}</span>
+                  </div>
+
                 </a>
               </li>
               {% if forloop.last %}</ul>{% endif %}
