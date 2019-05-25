@@ -108,12 +108,17 @@ excerpt_separator: <!--more-->
                     <!-- secondary date content -->
 
                     <span class="badge btn btn-small btn-flat waves-effect waves-blue ilike-blue-container">
-                    <div>
-
-                      <span id='y_{{post.date | date: "%Y_%B"}}' class="shifty-date date-sub-display">{{currentdate}}</span>
+                      <div class="hide-on-small-only">
+                        <span id='y_{{post.date | date: "%Y_%B"}}' class="shifty-date date-sub-display">{{currentdate}}</span>
                       </div>
                     </span>
                   </div>
+
+                  <!-- for small devices -->
+                  <div class="show-on-small hide-on-med-and-up">
+                    <span id='y_{{post.date | date: "%Y_%B"}}' class="shifty-date date-sub-display">{{currentdate}}</span>
+                  </div>
+
                 </a>
               </li>
               {% if forloop.last %}</ul>{% endif %}
