@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 Is it possible to target keywords at a stage that hinders the objective?
 
-One SEO is tasked with and initializes a analysis-based workflow for your website.  As expected, the analyst completes the first round of data-gathering  -- creating the pool of possible words to focus on.  On an optimized text, recognizing nuances between one written phrase and its closest peer is at the core of having a human work on this crucial gathering  process.  
+One SEO is tasked with and initializes a analysis-based workflow for your website.  As expected, the analyst completes the first round of data-gathering  -- creating the pool of possible words to focus on.  On an optimized text, recognizing linguistic nuances between one written phrase and its closest peer is at the core of having a human work on this crucial gathering process.  
 
 ### Spanish language word set
 How do we make sure we have not basically entered into a benign post-processing step? Imagine, like I am, early tech in films; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we begin to ”enhance” that which we have already ”enhanced?”  This is the moment of translation when optimization is most important -- yet the modern SEO is at risk of being left detached from the crucial process of scoping high-value intent at the moment where a proper foundation is built.
