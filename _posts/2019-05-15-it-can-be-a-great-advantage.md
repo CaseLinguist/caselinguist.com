@@ -9,9 +9,16 @@ pinned: true
 excerpt_separator: <!--more-->
 ---
 
-How do we make sure we have avoided a benign post-processing language initiative? Imagine, for a moment, tech in films in the near-distant past; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we continually claim to ”enhance” that which we’ve already ”enhanced” before? This is the moment. Translation concurrent — when optimization is most important is when the modern SEO is at most risk of being left detached from the crucial process of scoping high-value content.  The SEO drills down into intent markers and present at the moment where a proper foundation is built.
+How do we make sure we have avoided a benign post-processing language initiative? Imagine, for a moment, tech in films in the near-distant past; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we continually claim to ”enhance” that which we’ve already ”enhanced” before? Optimization is most important if it insists on keeping the translation concurrent.   The modern SEO is at most risk of being left detached from the crucial process of scoping high-value content.  The SEO drills down into intent markers and present at the moment where a proper foundation is built.
 
 Is it possible to target keywords at a stage that hinders the objective?
+
+###  Current app-scape
+
+In general, an explanation to current courts backlog is likely to involve:
+- seeing old technologies stick around longer.
+- A high propensity to export work. 
+As more of the legal industry adopts ’crowd and cloud’ technologies, these adopters will be in a position to provide a way to connect attorneys with administrative personnel like court reporters to quickly schedule a case.  
 
 ### Gathering nuances
 One SEO is tasked with and initializes a analysis-based workflow for your website.  As expected, the analyst completes the first round of data-gathering  -- creating the pool of possible words to focus on.  On an optimized text, recognizing linguistic nuances between one written phrase and its closest peer is at the core of having a human work on this crucial gathering process.  
