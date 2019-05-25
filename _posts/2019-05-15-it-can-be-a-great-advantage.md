@@ -25,6 +25,6 @@ The job of translation and SEO requires a keen ear to the flows of information. 
 
 With a gathered set of keywords, SEO expertise starting through this point supports the objective.   Track the correct meaning throughout.  Careful research through keyword volume tools inherently lets us weed out raw ”literal” translations.
 
-Advantages like using the same professional for both SEO as a translator and as a a content analyst lets you directly address the value of SEO in Spanish.
+Advantages like that of using the same professional for both SEO as a translator and as a a content analyst lets you directly address the value of SEO in Spanish.
 
 -René
