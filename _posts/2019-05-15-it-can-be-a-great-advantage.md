@@ -17,7 +17,7 @@ One SEO is tasked with and initializes a analysis-based workflow for your websit
 How do we make sure we have avoided a benign post-processing language initiative? Imagine, for a moment, tech in films in the near-distant past; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we continually claim to ”enhance” that which we’ve already ”enhanced” before? This is the moment. Translation concurrent — when optimization is most important is when the modern SEO is at most risk of being left detached from the crucial process of scoping high-value content.  The SEO drills down into intent markers and present at the moment where a proper foundation is built.
 
 ### Tiny losses
-A large agency might favor the translation outsourcing path.  The risk here is to lose the ability to remain beneficial and to gather metrics using a plethora of translators, reviewers and proofreaders.  The success of Spanish SEO success may trim and fall short to the negativity of ineffective translation. Once optimized, content suited for bot consumption in English are exported to ”quality assurance” reviewers of the coherence of the language at best.  Beware, as with a large agency, that level of detail may be as close as you can get to capable SEOs at a critical point in the process.
+A large agency might favor the translation outsourcing path.  The risk here is to lose the ability to remain beneficial and to gather metrics using a plethora of translators, reviewers and proofreaders.  The success of Spanish SEO success may trim and fall short to the negativity of ineffective translation. Once optimized, content suited for bot consumption in English is exported to ”quality assurance” reviewers of the coherence of the language at best.  Beware, as with a large agency, that level of detail may be as close as you can get to capable SEOs at a critical point in the process.
 
 The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. 
 
@@ -25,6 +25,6 @@ The job of translation and SEO requires a keen ear to the flows of information. 
 
 With a gathered set of keywords, SEO expertise starting through this point supports the objective.  It is proposed to track the correct meaning throughout.  Careful research through keyword volume tools inherently lets us weed out raw ”literal” translations.
 
-Advantages like that of using the same professional for both SEO as a translator and as a a content analyst lets you directly address the value of SEO in Spanish.
+Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.
 
 -René
