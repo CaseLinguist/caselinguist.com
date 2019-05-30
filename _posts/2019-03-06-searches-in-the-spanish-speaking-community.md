@@ -28,7 +28,7 @@ According to [Internet World Stats](https://www.internetworldstats.com/stats13.h
 
 ### Keywords and Spanish-speaking searchers
 
-_Google Trends Visualization for spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to <a href="https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13">the use of "unauthorized consultants."</a> For example, <a href="https://aila.org/practice/consumer-protection/stop-notario-fraud">notario, is not a lawyer</a>.
+_Google Trends Visualization for spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to <a href="https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13">the use of "unauthorized consultants."</a> For example, <a href="https://aila.org/practice/consumer-protection/stop-notario-fraud">notario, against which,  if we were to assume a browser-locale adjustment to ”es-US”, is  not a lawyer</a>.  This adjustment may not be enforced in practice.
 
 {% include charts/abogado-trends.html %}
 
