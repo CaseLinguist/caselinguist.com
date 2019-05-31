@@ -16,8 +16,12 @@ Is it possible to target keywords at a stage that hinders the objective?
 ###  Current app-scape
 
 In general, an explanation to current courts backlog is likely to involve:
+
 - seeing old technologies stick around longer.
+
 - A high propensity to export work. 
+
+
 As more of the legal industry adopts ’crowd and cloud’ technologies, these adopters will be in a position to provide a way to connect attorneys with administrative personnel like court reporters to quickly schedule a case.  
 
 ### Gathering nuances
