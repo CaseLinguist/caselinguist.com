@@ -20,7 +20,7 @@ According to [PEW Hispanic](https://www.pewhispanic.org/2018/09/14/facts-on-u-s-
 
 {% include charts/pew-population-chart.html %}
 
-According to [Internet World Stats](https://www.internetworldstats.com/stats13.htm), there are 46,397,452 spanish-speaking internet users in United States.  The actual number of spanish-speaking internet users is most likely even higher.  This is because many spanish-speaking people do not set spanish as the official language on their computer.
+According to [Internet World Stats](https://www.internetworldstats.com/stats13.htm), there are 46,397,452 Spanish-speaking internet users in the United States.  The actual number of Spanish-speaking internet users is most likely even higher.  This is because many Spanish-speaking people do not set Spanish as the official language on their computer.
 
 ### Spanish Speaking Client Searches
 
@@ -28,7 +28,7 @@ According to [Internet World Stats](https://www.internetworldstats.com/stats13.h
 
 ### Keywords and Spanish-speaking searchers
 
-_Google Trends Visualization for spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to [the use of "unauthorized consultants."](https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13) For example, if we were to assume a nn-standard browser-locale adjustment to ”es-US”, [notario](https://aila.org/practice/consumer-protection/stop-notario-fraud), is not a lawyer.  This adjustment may become overlooked to the detriment of the end user.
+_Google Trends Visualization for Spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to [the use of "unauthorized consultants."](https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13) For example, if we were to assume a nn-standard browser-locale adjustment to ”es-US”, [notario](https://aila.org/practice/consumer-protection/stop-notario-fraud), is not a lawyer.  This adjustment may become overlooked to the detriment of the end user.
 
 {% include charts/abogado-trends.html %}
 
