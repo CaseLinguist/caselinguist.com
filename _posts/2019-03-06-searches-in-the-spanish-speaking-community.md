@@ -13,7 +13,7 @@ If you work with clients in Criminal and Immigration court, it is likely that ma
 
 Although this might seem common sense, it often not something that small law firms in the United States consider.  Lawyers are understandably focused on their current clients. Most practitioners have limited time and few extra resources to devote to the nuances of internet marketing.
 
-### Landscape of search
+### Localization in search
 In order to appreciate the importance of foreign language SEO, we must recognize how many foreign-born people reside in the United States and routinely search the internet in a foreign language to obtain professional and legal services.
 
 According to [PEW Hispanic](https://www.pewhispanic.org/2018/09/14/facts-on-u-s-immigrants/), the foreign born population residing in the U.S. grew to a record 43.7 million people (13% of the U.S. population) in 2016.  The immigrant population is now 4x larger than it was in 1965. Although growth has begun to slow over the past few years, estimates suggest that this population will have nearly doubled by 2065.
