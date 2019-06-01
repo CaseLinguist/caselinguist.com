@@ -6,6 +6,7 @@ categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
 pinned: true
+last_modified_at: 2019-05-30
 excerpt_separator: <!--more-->
 ---
 
@@ -19,7 +20,7 @@ In general, an explanation to current courts backlog is likely to involve:
 
 - seeing old technologies stick around longer.
 
-- A high propensity to export work. 
+- A high propensity to export work.
 
 
 As more of the legal industry adopts ’crowd and cloud’ technologies, these adopters will be in a position to provide a way to connect attorneys with administrative personnel like court reporters to quickly schedule a case.  

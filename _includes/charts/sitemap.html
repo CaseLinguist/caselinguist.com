@@ -1,0 +1,131 @@
+<style>
+  #sitemap {
+    min-width: 300px;
+    max-width: 800px;
+    margin: 1em auto;
+    /* border: 1px solid silver; */
+  }
+
+  #sitemap h4 {
+    text-transform: none;
+    font-size: 14px;
+    font-weight: normal;
+  }
+  #sitemap p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+</style>
+
+<h2>Visual Sitemap</h2>
+<div id="sitemap"></div>
+
+
+<script>
+  var customNodes = [
+  {
+    id: 'Home',
+    column: 1,
+    title: 'Link: <a href="{"sitemap"=>"http://marketingforlawyers.org"}">page</a>'
+  },
+  {
+    id: 'Law Firm SEO',
+    color: '#BFD6ED',
+
+    column: 2
+  },
+  {
+    id: 'Immigration',
+    color: '#BFD6ED',
+    column: 3
+  },
+  {
+    id: 'Twitter.com',
+    color: '#BFD6ED',
+    column: 2
+  },
+  {
+    id: 'Searches in Spanish Speaking Community',
+    column: 3
+  }
+
+  ]
+
+  var options = {
+    chart: {
+      renderTo: 'sitemap',
+      height: 600,
+      inverted: true,
+    },
+
+    title: {
+      text: 'Marketingforlawyers.org'
+    },
+
+    series: [{
+      type: 'organization',
+      name: 'Case Linguist LLC',
+      keys: ['from', 'to'],
+      data: [
+
+      ['Home', 'About'],
+      ['Home', 'Contact'],
+      ['Home', 'Law Firm SEO'],
+      ['Home', 'Testimonials'],
+      ['Home', 'Twitter.com'],
+      ['Law Firm SEO', 'Immigration'],
+      ['Law Firm SEO', 'It Can Be a Great Advantage'],
+      ['Law Firm SEO', 'Law Technology With Impact'],
+      ['Immigration', 'Searches In Spanish Speaking Community']
+
+
+      ],
+      levels: [{
+        level: 0,
+        color: '#FEA66D',
+        dataLabels: {
+          color: 'black',
+        },
+
+        height: 25
+      }, {
+        level: 1,
+        color: '#F0F8FF',
+        dataLabels: {
+          color: 'black'
+        },
+        height: 25
+      }, {
+        level: 2,
+        color: '#F0F8FF',
+      }, {
+        level: 3,
+        color: '#F0F8FF'
+      }],
+      nodes: customNodes,
+      colorByPoint: false,
+      color: '#007ad0',
+      dataLabels: {
+        color: 'black'
+      },
+      borderColor: 'white',
+      nodeWidth: 70,
+
+    }],
+    tooltip: {
+      outside: true
+    },
+    // exporting: {
+    //   allowHTML: true,
+    //   sourceWidth: 800,
+    //   sourceHeight: 600
+    // }
+
+  }
+  // build chart
+
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var chart = new Highcharts.Chart(options);
+  })
+</script>
