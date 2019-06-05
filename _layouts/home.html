@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
       <div class="intro-wrap">
         <div class="name-text">Rene M. Paccha</div>
         <div class="paragraph-light">SEO, Case Linguist LLC</div>
-        <p class="heading-jumbo">Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.</p>
+        <p class="heading-jumbo">{{ site.main_service_message }}</p>
       </div>
     </div>
   </div>
@@ -58,11 +58,6 @@ excerpt_separator: <!--more-->
     </div>
 
 
-
-    <div class='col s12 m8 l7 hide-on-small-only'>
-      <!-- hiding on small screen -->
-      {% include card-screenshot.html %}
-    </div>
   </div>
 
 
@@ -137,14 +132,25 @@ excerpt_separator: <!--more-->
   <div class="divider"></div>
   <div class="section">
 
-      <a href="{{ '/about/' | relative_url }}"><h3 class="flow-text">Based in Chicago, IL</h3></a>
+    <a href="{{ '/about/' | relative_url }}"><h3 class="flow-text">Based in Chicago, IL</h3></a>
     <!-- image start -->
     <div class="col s12 m6">
 
       <!-- image -->
-      <img class="needs-to-be-own-thing materialboxed center-align responsive-img " width="650" src="{{ '/assets/rene-m-paccha-chicago-250.png' | relative_url }}" srcset="{{ '/assets/rene-m-paccha-chicago-500.png' | relative_url }} 500w, {{ '/assets/rene-m-paccha-chicago.png' | relative_url }} 1000w" alt="rene m paccha professional headshot with willis tower background">
+      <img class="needs-to-be-own-thing materialboxed center-align responsive-img " width="650" src="{{ '/assets/rene-m-paccha-chicago-250.png' | relative_url }}" srcset="{{ '/assets/rene-m-paccha-chicago-500.png' | relative_url }} 500w, {{ '/assets/rene-m-paccha-chicago.png' | relative_url }} 1000w" alt="rene m paccha picture willis tower background">
     </div>
   </div>
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "{{ site.url }}",
+      "name": "{{ site.title }} | {{ site.primary_tag_desc }}"
+      "desciption": "{{ site.main_service_message }}"
+    }
+  </script>
 
 
   {% include photo-pop.html %}

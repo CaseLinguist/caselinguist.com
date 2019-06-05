@@ -25,6 +25,9 @@ twitter_username: caselinguist
 github_username:  caselinguist
 google_analytics: UA-93007789-1
 
+main_service_message: >
+  Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs."
+
 
 # Build settings
 markdown: kramdown
@@ -49,3 +52,5 @@ collections:
   pricing:
     output: true
     pricing_level: "comprehensive"
+
+primary_tag_desc: "Hispanic Legal Marketing" # not "home"
