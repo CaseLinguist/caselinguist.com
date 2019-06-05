@@ -1,4 +1,5 @@
 ---
+layout: default
 name: immigration
 pricing: standard
 ---

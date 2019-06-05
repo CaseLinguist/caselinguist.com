@@ -25,9 +25,14 @@ According to [Internet World Stats](https://www.internetworldstats.com/stats13.h
 
 ### Spanish Speaking Client Searches
 
+"Abogado" means lawyer in Spanish. As this chart indicates, 6.5-9.3 thousand people search Google for the keyword *Abogado* each month in the United States. You can make these potential clients feel more comfortable by addressing them in their native language.
+
+
 {% include pricecards/moz-abogado.html %}
 
 ### Keywords and Spanish-speaking searchers
+
+By performing SEO optimization in Spanish, you can also help prospective clients avoid misleading pitfalls.  For example, many Spanish-speaking clients, who are seeking a lawyer, search for the false cognate *notario* and end up enlisting the services of a "notary".
 
 _Google Trends Visualization for Spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to [the use of "unauthorized consultants."](https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13) For example, if we were to assume a nn-standard browser-locale adjustment to ”es-US”, [notario](https://aila.org/practice/consumer-protection/stop-notario-fraud), is not a lawyer.  This adjustment may become overlooked to the detriment of the end user.
 

@@ -17,36 +17,79 @@
   }
 </style>
 
-<h2>Visual Sitemap</h2>
-<div id="sitemap"></div>
+<p class="black-text">Visual Sitemap</p>
 
+<!-- comment as you work -->
+<!-- {% for url in site.data.siteurls %}
+  <h6>{{ url["H1-1"] | tr 10 }}</h6>
+  <p>
+    {{ url.Address | remove: "https://marketingforlawyers.org" }}
+  </p>
+{% endfor %} -->
+
+
+<!-- chart start here -->
+<div id="sitemap"></div>
 
 <script>
   var customNodes = [
   {
-    id: 'Home',
+    // id: {{ site.data.sitemap.Address | remove: site.url }},
+    id: "Home",
     column: 1,
-    title: 'Link: <a href="{"sitemap"=>"http://marketingforlawyers.org"}">page</a>'
+    title: "<a href='{{ '/' | relative_url }}'>page</a>"
+  },
+  {
+    id: "About Company",
+    column: 2,
+    title: "<a href='{{ '/about/' | relative_url }}'>page</a>"
+
+  },
+  {
+    id: "Contact",
+    column: 2,
+    title: "<a href='{{ '/contact/' | relative_url }}'>page</a>"
+
   },
   {
     id: 'Law Firm SEO',
     color: '#BFD6ED',
-
-    column: 2
+    column: 3,
+    title: "<a href='{{ '/law-firm-seo/' | relative_url }}'>directory</a>"
+  },
+  {
+    id: 'Testimonials',
+    column: 2,
+    title: "<a href='{{ '/testimonials/' | relative_url }}'>page</a>"
   },
   {
     id: 'Immigration',
     color: '#BFD6ED',
-    column: 3
+    column: 4,
+    title: "<a href='{{ '/immigration/' | relative_url }}'>directory</a>"
   },
   {
     id: 'Twitter.com',
     color: '#BFD6ED',
-    column: 2
+    column: 2,
+    title: "<a style='color:green' href='//twitter.com/@caselinguist'>@caselinguist</a>"
   },
   {
-    id: 'Searches in Spanish Speaking Community',
-    column: 3
+    id: 'Not all clients search in English',
+    // color:
+    column: 5,
+    title: "<a href='{{ '/law-firm-seo/immigration/searches-in-the-spanish-speaking-community-03-06-2019.html' | relative_url }}'>page</a>"
+  },
+{
+  id: "Content strategy and translation services",
+  column: 4,
+  title: "<a href='{{ '/law-firm-seo/it-can-be-a-great-advantage-05-15-2019.html' | relative_url }}'>page</a>"
+
+},
+  {
+    id: 'Law Technology with Impact',
+    column: 4,
+    title: "<a href='{{ '/law-firm-seo/law-technology-with-impact-02-25-2019.html' | relative_url }}'>page</a>"
   }
 
   ]
@@ -68,15 +111,15 @@
       keys: ['from', 'to'],
       data: [
 
-      ['Home', 'About'],
+      ['Home', 'About Company'],
       ['Home', 'Contact'],
       ['Home', 'Law Firm SEO'],
       ['Home', 'Testimonials'],
       ['Home', 'Twitter.com'],
       ['Law Firm SEO', 'Immigration'],
-      ['Law Firm SEO', 'It Can Be a Great Advantage'],
-      ['Law Firm SEO', 'Law Technology With Impact'],
-      ['Immigration', 'Searches In Spanish Speaking Community']
+      ['Law Firm SEO', 'Content strategy and translation services'],
+      ['Law Firm SEO', 'Law Technology with Impact'],
+      ['Immigration', 'Not all clients search in English']
 
 
       ],
@@ -114,13 +157,7 @@
     }],
     tooltip: {
       outside: true
-    },
-    // exporting: {
-    //   allowHTML: true,
-    //   sourceWidth: 800,
-    //   sourceHeight: 600
-    // }
-
+    }
   }
   // build chart
 
