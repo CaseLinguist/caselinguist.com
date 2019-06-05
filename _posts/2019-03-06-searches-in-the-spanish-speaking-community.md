@@ -41,7 +41,6 @@ _Google Trends Visualization for Spanish words (Illinois)_ show searches for "ab
 #### Other SEO-related considerations
 
 - Top results may lead to overseas results and even advice.
-- Confusion over the correct translation among searches (that which is meaningful, beyond literal).
 
 
 -René
