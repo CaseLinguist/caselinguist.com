@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
       <div class="intro-wrap">
         <div class="name-text">Rene M. Paccha</div>
         <div class="paragraph-light">SEO, Case Linguist LLC</div>
-        <h2 class="heading-jumbo">Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.</h2>
+        <p class="heading-jumbo">Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.</p>
       </div>
     </div>
   </div>
@@ -41,9 +41,11 @@ excerpt_separator: <!--more-->
             {{ post.date | date: "%B %e, %Y" }}
             {% endunless %}
           </span>
-          <h3>
+          <br/>
+          <br/>
+          <div>
             <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
-          </h3>
+          </div>
           <span class='blog-font'>{{ post.excerpt }}</span>
         </li>
         <p class='align-right'>
@@ -86,9 +88,9 @@ excerpt_separator: <!--more-->
             <ul class="collection with-header">
               <!-- set post limit -->
               <li class="collection-header">
-                <h4 class='page-heading '>
+                <h2 class='page-heading '>
                   Blog
-                </h4>
+                </h2>
               </li>
 
               {% for post in site.posts limit:9 %}
@@ -135,7 +137,7 @@ excerpt_separator: <!--more-->
   <div class="divider"></div>
   <div class="section">
 
-      <a href="{{ '/about/' | relative_url }}"><h4 class="flow-text">Based in Chicago, IL</h4></a>
+      <a href="{{ '/about/' | relative_url }}"><h3 class="flow-text">Based in Chicago, IL</h3></a>
     <!-- image start -->
     <div class="col s12 m6">
 
