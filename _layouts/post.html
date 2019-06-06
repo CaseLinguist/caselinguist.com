@@ -6,7 +6,20 @@ layout: default
     <h1 class='post-title strong-blog-font'>{{ page.title | escape }}</h1>
     <p class='post-meta strong-blog-font'><time datetime='{{ page.date | date_to_xmlschema }}'>
       {{ page.date | date: '%A, %B %e, %Y' }}
-    </time>{% if page.author %}
+    </time>
+    {% if page.last_modified_at %}
+      <br/>
+
+      <p class="left">Updated: {{ page.last_modified_at | date: "%B %e, %Y"}}</p>
+      <br/>
+      <br/>
+      <br/>
+
+    {% endif %}
+
+
+
+    {% if page.author %}
     <span></span>
     {% endif %}
   </p>
