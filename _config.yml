@@ -19,6 +19,9 @@ marketing_title: Marketing for Lawyers
 email: rene@marketingforlawyers.org
 description: > # this means to ignore newlines until "baseurl:"
   Contact a Chicago-based SEO company specializing in legal marketing for English and Spanish speaking audiences.
+large_tagline: >
+  Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marketingforlawyers.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: caselinguist
@@ -50,7 +53,3 @@ collections:
     pricing_level: "comprehensive"
 
 primary_tag_desc: "Hispanic Legal Marketing" # not "home"
-
-main_service_message: >
-  Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.
-

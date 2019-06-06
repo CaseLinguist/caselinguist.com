@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang='{{ page.lang | default: site.lang | default: "en" }}'>
 
 {% include head.html %}
 
 <body>
-
   {% include header.html %}
-
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
@@ -17,21 +15,15 @@
     {% include footer.html %}
   </div>
 
-
   <div class="page-footer final-footer z-depth-1">
     <div class="footer-copyright">
       <div class="container">
-
         <span class="hide-on-small-only show-on-medium-and-up">© 2019 Case Linguist LLC</span>
         <a href="{{ '/sitemap.html' | relative_url }}"><span class="grey-text text-lighten-4">Visual Site Map</span></a>
         <span class="show-on-small hide-on-med-and-up right">© 2019 Case Linguist LLC</span>
-          <a class="grey-text text-lighten-4 right" href="mailto:rene@marketingforlawyers.org?subject=Marketing+Interpretation"><span>E-mail: </span><span>rene@marketingforlawyers.org</span></a>
-
+        <a class="grey-text text-lighten-4 right" href="mailto:rene@marketingforlawyers.org"><span>E-mail: </span><span>rene@marketingforlawyers.org</span></a>
       </div>
     </div>
   </div>
-  <!-- end second footer -->
-
-
 </body>
 </html>

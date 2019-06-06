@@ -2,32 +2,26 @@
 layout: default
 ---
 
-<article class="testimonial" itemscope itemtype="//schema.org/Blogtestimonialing">
-  <header class="testimonial-header">
-    <h1 class="testimonial-title strong-blog-font" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="testimonial-meta strong-blog-font"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"></span>{% endif %}</p>
+<article class='testimonial'>
+  <header class='testimonial-header'>
+    <h1 class='testimonial-title strong-blog-font'>{{ page.title | escape }}</h1>
+    <p class='testimonial-meta strong-blog-font'>
+      <time datetime='{{ page.date | date_to_xmlschema }}'></time>
+      {{ page.date | date: '%b %-d, %Y' }}
+      {% if page.author %}
+      <span></span>
+      {% endif %}
+    </p>
   </header>
-
-  <div class="testimonial-content blog-font" itemprop="articleBody">
+  <div class='testimonial-content blog-font'>
     <blockquote>
       {{ content }}
     </blockquote>
   </div>
-
-{% if page.my_client %}
-  <div class="chip right">
-     <!-- <img src="images/yuna.jpg" alt="Contact Person"> -->
-  - <em>{{page.my_client}}</em>
-</div>
-{% endif %}
-<br/>
-<br/>
-<hr/>
-
-
-
-
-
-
-
+  {% if page.my_client %}
+  <div class='chip right'>
+    -
+    <em>{{page.my_client}}</em>
+  </div>
+  {% endif %}
 </article>
