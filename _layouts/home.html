@@ -6,14 +6,17 @@ excerpt_separator: <!-- more -->
 
 <div class='home home-section section'>
 
-<div class="container">
-    <div class="row logo center">
-        <div class="col s12 m4 l3">
+<div class="">
+  <div class="v-align-wrapper">
+    <div class="row logo center-align">
+        <div class="col s12 l3">
           <span class='center-align'>
-            <img alt='case linguist logo' src='assets/logo.png' width='350'>
+            <img class='center-align' alt='case linguist logo' src='assets/logo.png' width='350'>
           </span>
         </div>
     </div>
+
+  </div>
     <div class="row tagline">
         <div class="col s12">
           <div class='splash-section' id='slide'>
@@ -31,38 +34,45 @@ excerpt_separator: <!-- more -->
     <div class="divider">
 
     </div>
-    <div class="row featured-post">
-        <div class="col s12 m8 l6">
-          <div class='featured post'>
-            <div class='flow-text'>
-              <h1 style='font-size: 2rem; font-weight: 700;'>Featured Post</h1>
+    <div class="container">
+      <div class="row featured-post">
+          <div class="col s12 ">
+            <div class='featured post'>
+              <div class='flow-text'>
+                <h1 style='font-size: 2rem; font-weight: 700;'>Featured Post</h1>
+              </div>
+              {{ content }}
+              <ul class='post-list'>
+                {% for post in site.posts limit:1 offset:1 %}
+                <li>
+                  <span class='post-meta strong-blog-font'>
+                    {% unless post.pinned %}
+                    {{ post.date | date: "%B %e, %Y" }}
+                    {% endunless %}
+                  </span>
+                  <br>
+                  <br>
+                  <div>
+                    <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
+                  </div>
+                  <span class='blog-font'>{{ post.excerpt }}</span>
+                </li>
+                <p class='align-right'>
+                  <a class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
+                    Keep Reading...
+                  </a>
+                </p>
+                {% endfor %}
+              </ul>
             </div>
-            {{ content }}
-            <ul class='post-list'>
-              {% for post in site.posts limit:1 offset:1 %}
-              <li>
-                <span class='post-meta strong-blog-font'>
-                  {% unless post.pinned %}
-                  {{ post.date | date: "%B %e, %Y" }}
-                  {% endunless %}
-                </span>
-                <br>
-                <br>
-                <div>
-                  <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
-                </div>
-                <span class='blog-font'>{{ post.excerpt }}</span>
-              </li>
-              <p class='align-right'>
-                <a class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
-                  Keep Reading...
-                </a>
-              </p>
-              {% endfor %}
-            </ul>
-          </div>
 
-        </div>
+          </div>
+      </div>
+
+    </div>
+
+    <div class="divider">
+
     </div>
     <div class="row blog-list ">
 
