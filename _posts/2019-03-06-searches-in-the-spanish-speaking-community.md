@@ -5,7 +5,7 @@ lang: en
 categories: Law-Firm-SEO Immigration
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-05-31
+last_modified_at: 2019-06-12
 chart: true
 
 ---
@@ -32,18 +32,24 @@ According to [Internet World Stats](https://www.internetworldstats.com/stats13.h
 
 ### Keywords and Spanish-speaking searchers
 
-By performing SEO optimization in Spanish, you can also help prospective clients avoid misleading pitfalls.  For example, many Spanish-speaking clients, who are seeking a lawyer, search for the false cognate *notario* and end up enlisting the services of a "notary."
+By performing SEO optimization in Spanish, you can also help prospective clients avoid misleading pitfalls.  For example, many Spanish-speaking clients, who are seeking a lawyer, search for the false cognate *notario* and end up enlisting the services of a "notary." By perfecting your Spanish SEO campaign, with the help of an experienced translator, you can avoid misleading cognates and best direct prospective clients to the services you provide.
 
-_Google Trends Visualization for Spanish words (Illinois)_ show searches for "abogados" and another term which historically, outside of search, has led to [the use of "unauthorized consultants."](https://aila.org/advo-media/tools/psas/psa-on-cir-and-notarios-04-29-13) For example, if we were to assume a non-standard browser locale adjustment to ”es-US”, [notario](https://aila.org/practice/consumer-protection/stop-notario-fraud), is not a lawyer.  This adjustment may become overlooked to the detriment of the end user.
+This chart shows the ratio of web user interest over time in the search terms *abogado* and *notario* in Illinois. For example, on July 22, 2018, roughly 25 people searched for "notario" for every 50 who searched for "abogado".  As you can see, *notario* is a relatively common search term that might mislead some clients.
 
 {% include charts/abogado-trends.html %}
 
-#### Other SEO-related considerations
+<br/>
+<br/>
 
-- Top results may lead to overseas results and even advice.
+I look forward to hearing from you and working together on how to improve your Spanish SEO campaign.
+<br/>
+<br/>
 
 
--René
+All the best,
+<br/>
+<br/>
+René
 
 
 
