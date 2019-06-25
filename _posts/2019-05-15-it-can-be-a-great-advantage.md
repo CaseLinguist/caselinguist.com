@@ -5,7 +5,6 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-pinned: true
 last_modified_at: 2019-05-30
 excerpt_separator: <!--more-->
 ---
