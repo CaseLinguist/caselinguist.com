@@ -9,10 +9,11 @@ layout: default
 
       {{ page.date | date: '%A, %B %e, %Y' }}
     </time>
+
     {% if page.last_modified_at %}
       <br/>
 
-      <p class="left">Updated: {{ page.last_modified_at | date: "%B %e, %Y"}}</p>
+      <p class="left black-text">Updated: <time datetime='{{ page.last_modified_at | date: "%B %e, %Y"}}'>{{ page.last_modified_at | date: "%B %e, %Y"}}</time></p>
       <br/>
       <br/>
       <br/>

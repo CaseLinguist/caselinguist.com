@@ -68,6 +68,15 @@ h1, h2, h3, h4, h5, p, li, span {
   border: 1px solid #d5d5d5;
 }
 
+
+.page-heading {
+  margin-left: -5px;
+}
+
+.collection.with-header .collection-item {
+  margin-left: 18px;
+}
+
 .ilike-amber-container:hover {
   @extend .amber, .lighten-1;
 }
