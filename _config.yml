@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Contact a Chicago-based SEO company specializing in legal marketing for English and Spanish speaking audiences.
 large_tagline: >
   Case Linguist LLC provides internet marketing services for English and Spanish-speaking audiences. We offer comprehensive packages and a la carte services that can be catered to your needs.
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marketingforlawyers.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: caselinguist
