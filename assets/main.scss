@@ -64,6 +64,10 @@ h1, h2, h3, h4, h5, p, li, span {
 @import "minima";
 @import 'materialize';
 
+#pinned-reading {
+  border: 1px solid #d5d5d5;
+}
+
 .ilike-amber-container:hover {
   @extend .amber, .lighten-1;
 }
