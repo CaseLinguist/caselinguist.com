@@ -31,7 +31,7 @@ excerpt_separator: <!-- more -->
       </div>
     </div>
 
-    <div class="divider">
+    <!-- <div class="divider"> -->
 
     </div>
     <div class="section middle-section">
@@ -40,10 +40,11 @@ excerpt_separator: <!-- more -->
         <div class="row">
           <div class="col s12 ">
             <div class='featured post'>
-              <div class=''>
+
                 <h1 style='font-size: 2rem; font-weight: 700;'>Featured Post</h1>
-              </div>
+
               <div class="section nested-section">
+
                 {{ content }}
               </div>
 
@@ -60,8 +61,10 @@ excerpt_separator: <!-- more -->
                   <br>
 
                   <div>
+                    <p>
+                      <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
+                    </p>
 
-                    <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
                   </div>
                   <span class='blog-font'>{{ post.excerpt }}</span>
 
@@ -83,7 +86,7 @@ excerpt_separator: <!-- more -->
       </div>
     </div>
 
-    <div class="divider">
+    <!-- <div class="divider"> -->
 
     </div>
     <div class="section end-section">
