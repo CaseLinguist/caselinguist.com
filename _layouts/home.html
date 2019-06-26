@@ -33,127 +33,127 @@ excerpt_separator: <!-- more -->
 
     <!-- <div class="divider"> -->
 
-    </div>
-    <div class="section middle-section">
+  </div>
+  <div class="section middle-section">
 
-      <div class="">
-        <div class="row">
-          <div class="col s12 ">
-            <div class='featured post'>
+    <div class="">
+      <div class="row">
+        <div class="col s12 ">
+          <div class='featured post'>
 
-                <h1 style='font-size: 2rem; font-weight: 700;'>Featured Post</h1>
+            <h1 style='font-size: 2rem; font-weight: 700;'>Featured Post</h1>
 
-              <div class="section nested-section">
+            <div class="section nested-section">
 
-                {{ content }}
-              </div>
-
-              <ul class='post-list'>
-                {% for post in site.posts %}
-                <li>
-                  {% if post.pinned %}
-                  <span class='post-meta strong-blog-font'>
-
-                    {{ post.date | date: "%B %e, %Y" }}
-
-                  </span>
-                  <br>
-                  <br>
-
-                  <div>
-                    <p>
-                      <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
-                    </p>
-
-                  </div>
-                  <span class='blog-font'>{{ post.excerpt }}</span>
-
-
-                </li>
-                <p class='align-right'>
-                  <a id="pinned-reading" class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
-                    Keep Reading...
-                  </a>
-                </p>
-                {% endif %}
-                {% endfor %}
-              </ul>
+              {{ content }}
             </div>
 
+            <ul class='post-list'>
+              {% for post in site.posts %}
+              <li>
+                {% if post.pinned %}
+                <span class='post-meta strong-blog-font'>
+
+                  {{ post.date | date: "%B %e, %Y" }}
+
+                </span>
+                <br>
+                <br>
+
+                <div>
+                  <p>
+                    <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
+                  </p>
+
+                </div>
+                <span class='blog-font'>{{ post.excerpt }}</span>
+
+
+              </li>
+              <p class='align-right'>
+                <a id="pinned-reading" class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
+                  Keep Reading...
+                </a>
+              </p>
+              {% endif %}
+              {% endfor %}
+            </ul>
           </div>
-        </div>
 
-      </div>
-    </div>
-
-    <!-- <div class="divider"> -->
-
-    </div>
-    <div class="section end-section">
-
-      <div class="row blog-list ">
-
-
-        <div class="col s12 m9 l6">
-          <ul class='collection with-header'>
-            <li class='collection-header'>
-              <h2 class='page-heading'>
-                Blog
-              </h2>
-            </li>
-            {% for post in site.posts limit:9 %}
-            {% assign currentdate = post.date | date: "%b %e - %a" %}
-            {% if currentdate != date %}
-            {% assign date = currentdate %}
-            {% endif %}
-            <li class='collection-item'>
-              <a href='{{ post.url }}'>
-                <div class="blog-collection-item">
-
-
-                <div class='blog-collection-title'>
-                  {{ post.title }}
-                  <div class='badge'>
-                    <div class='hide-on-small-only'>
-                      <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="badge">
-                  <div class='show-on-small hide-on-med-and-up'>
-                    <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
-                  </div>
-
-                </div>
-                                </div>
-              </a>
-            </li>
-            {% if forloop.last %}
-          </ul>{% endif %}
-          {% endfor %}
-        </div>
-        <a href='{{ "/about/" | relative_url }}'>
-          <h3 class='flow-text center-align'>Based in Chicago, IL</h3>
-        </a>
-
-        <div class="headshot col s12 m3 l5 offset-l1">
-          <img alt='rene m paccha picture willis tower background' class='needs-to-be-own-thing materialboxed center-align responsive-img' src='{{ "/assets/rene-m-paccha-chicago-250.png" | relative_url }}' srcset='{{ "/assets/rene-m-paccha-chicago-500.png" | relative_url }} 500w, {{ "/assets/rene-m-paccha-chicago.png" | relative_url }} 1000w' width='650'>
         </div>
       </div>
+
     </div>
   </div>
 
+  <!-- <div class="divider"> -->
+
+</div>
+<div class="section end-section">
+
+  <div class="row blog-list ">
 
 
-  <script type='application/ld+json'>
+    <div class="col s12 m9 l6">
+      <ul class='collection with-header'>
+        <li class='collection-header'>
+          <h2 class='page-heading'>
+            Blog
+          </h2>
+        </li>
+        {% for post in site.posts limit:9 %}
+        {% assign currentdate = post.date | date: "%b %e - %a" %}
+        {% if currentdate != date %}
+        {% assign date = currentdate %}
+        {% endif %}
+        <li class='collection-item'>
+          <a href='{{ post.url }}'>
+            <div class="blog-collection-item">
 
-    {
-      "@context": "http://schema.org",
-      "@type": "WebSite",
-      "url": "{{ site.url }}",
-      "name": "{{ site.title }} | {{ site.primary_tag_desc }} | Chicago, IL",
-      "description": "{{ site.large_tagline }}"
-    }
 
-  </script>
-  {% include photo-pop.html %}
+              <div class='blog-collection-title'>
+                {{ post.title }}
+                <div class='badge'>
+                  <div class='hide-on-small-only'>
+                    <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
+                  </div>
+                </div>
+              </div>
+              <div class="badge">
+                <div class='show-on-small hide-on-med-and-up'>
+                  <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
+                </div>
+
+              </div>
+            </div>
+          </a>
+        </li>
+        {% if forloop.last %}
+      </ul>{% endif %}
+      {% endfor %}
+    </div>
+    <a href='{{ "/about/" | relative_url }}'>
+      <h3 class='flow-text center-align'>Based in Chicago, IL</h3>
+    </a>
+
+    <div class="headshot col s12 m3 l5 offset-l1">
+      <img alt='rene m paccha picture willis tower background' class='needs-to-be-own-thing materialboxed center-align responsive-img' src='{{ "/assets/rene-m-paccha-chicago-250.png" | relative_url }}' srcset='{{ "/assets/rene-m-paccha-chicago-500.png" | relative_url }} 500w, {{ "/assets/rene-m-paccha-chicago.png" | relative_url }} 1000w' width='650'>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+<script type='application/ld+json'>
+
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "{{ site.url }}",
+    "name": "{{ site.title }} | {{ site.primary_tag_desc }} | Chicago, IL",
+    "description": "{{ site.large_tagline }}"
+  }
+
+</script>
+{% include photo-pop.html %}

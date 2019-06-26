@@ -4,17 +4,10 @@
 @charset "utf-8";
 
 // Our variables
-// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 // $base-font-family: 'Rokkitt', serif !default;
-
-// $base-font-family:'Raleway', sans-serif; // NOTE: LOOKS SQUISHED   7/10
-
 $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
 // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
-
-
-
-
 
 $base-font-size:   16px;
 $base-font-weight: 200;
@@ -34,21 +27,30 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    1175px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
 
 .title-text {
   letter-spacing: 3px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-  // font-family: 'Assistant', sans-serif;
-  // font-family: 'Cabin', sans-serif;
 }
 
 .post-title {
   font-family: 'Assistant', sans-serif;
 }
+
+.blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.strong-blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 
 h1, h2, h3, h4, h5, p, li, span {
   letter-spacing: .805px;
@@ -98,17 +100,6 @@ a:visited, a:hover {
 }
 
 
-.blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.strong-blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
 
 .page-footer {
   padding-top: 0px;
