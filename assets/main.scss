@@ -5,9 +5,12 @@
 
 // Our variables
 
-// $base-font-family: 'Rokkitt', serif !default;
-$base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
+$font-stack: -apple-system, BlinkMacSystemFont, serif !default;
+
+$base-font-family: 'Rokkitt', serif !default;
+// $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
 // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
+
 
 $base-font-size:   16px;
 $base-font-weight: 200;
@@ -30,31 +33,49 @@ $content-width:    1175px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-.title-text {
-  letter-spacing: 3px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// .title-text {
+//   letter-spacing: 3px;
+//   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// }
+//
+// .post-title {
+//   font-family: 'Assistant', sans-serif;
+// }
+//
+// .blog-font {
+//   font-family: 'Cabin', sans-serif;
+//   font-weight: 300;
+//   font-style: normal;
+// }
+//
+// .strong-blog-font {
+//   font-family: 'Cabin', sans-serif;
+//   font-weight: 700;
+//   font-style: normal;
+// }
+//
+// .intro-wrap {
+//   font-family: 'Assistant', sans-serif;
+//   margin-top: 80px;
+//   margin-bottom: 140px;
+// }
+// h1, h2, h3, h4, h5, p, li, span {
+//   letter-spacing: .805px;
+// }
+
+
+@import "minima";
+@import 'materialize';
+
+body {
+  padding-bottom: 20px;
+  font-size: 16px;
+  height: 100%;
+  // font-family: Verdana,sans-serif;
+
 }
 
-.post-title {
-  font-family: 'Assistant', sans-serif;
-}
 
-.blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.strong-blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-
-h1, h2, h3, h4, h5, p, li, span {
-  letter-spacing: .805px;
-}
 
 #pew-hispanic-container {
   min-width: 310px;
@@ -62,9 +83,6 @@ h1, h2, h3, h4, h5, p, li, span {
   height: 400px;
   margin: auto auto;
 }
-
-@import "minima";
-@import 'materialize';
 
 #pinned-reading {
   border: 1px solid #d5d5d5;
@@ -112,6 +130,9 @@ a:visited, a:hover {
   border-bottom: none;
 }
 
+
+
+
 // CSS splash-section addition
 .heading-jumbo {
   margin-top:10px;
@@ -133,11 +154,6 @@ a:visited, a:hover {
 
 }
 
-.intro-wrap {
-  font-family: 'Assistant', sans-serif;
-  margin-top: 80px;
-  margin-bottom: 140px;
-}
 
 .msg-container {
   width: 100%;

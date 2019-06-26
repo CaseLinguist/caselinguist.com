@@ -1,8 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.primary_tag_desc | escape }}{% endif %} | {{ site.marketing_title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
@@ -19,7 +18,9 @@
 
 
   <!-- google fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Assistant|Cabin" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Assistant|Cabin" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css?family=Rokkitt&display=swap" rel="stylesheet">
+
 
   <!-- font awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css" integrity="sha256-BbA16MRVnPLkcJWY/l5MsqhyOIQr7OpgUAkYkKVvYco=" crossorigin="anonymous" />
@@ -39,7 +40,6 @@
 
   {% if jekyll.environment == 'production' %}
   {% include google-analytics.html %}
-  {% include alexa.html %}
   {% endif %}
 
 </head>
