@@ -77,6 +77,10 @@ h1, h2, h3, h4, h5, p, li, span {
   margin-left: 18px;
 }
 
+.blog-collection-item {
+    margin-left: -30px;
+}
+
 .ilike-amber-container:hover {
   @extend .amber, .lighten-1;
 }
