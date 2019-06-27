@@ -24,7 +24,7 @@ excerpt_separator: <!-- more -->
             <div class='intro-wrap'>
               <div class='name-text'>Rene M. Paccha</div>
               <div class='paragraph-light'>SEO, Case Linguist LLC</div>
-              <p class='heading-jumbo'>{{ site.large_tagline }}</p>
+              <div class='heading-jumbo'>{{ site.large_tagline }}</div>
             </div>
           </div>
         </div>
@@ -61,20 +61,20 @@ excerpt_separator: <!-- more -->
                 <br>
 
                 <div>
-                  <p>
+                  <div>
                     <a class='post-link strong-blog-font' href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a>
-                  </p>
+                  </div>
 
                 </div>
                 <span class='blog-font'>{{ post.excerpt }}</span>
 
 
               </li>
-              <p class='align-right'>
+              <div class='align-right'>
                 <a id="pinned-reading" class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
                   Keep Reading...
                 </a>
-              </p>
+              </div>
               {% endif %}
               {% endfor %}
             </ul>

@@ -5,10 +5,10 @@
 
 // Our variables
 
-$font-stack: -apple-system, BlinkMacSystemFont, serif !default;
 
-$base-font-family: 'Rokkitt', serif !default;
-// $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
+
+// $base-font-family: 'Rokkitt', serif !default;
+$base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
 // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
 
 
@@ -37,31 +37,31 @@ $on-laptop:        800px;
 //   letter-spacing: 3px;
 //   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // }
-//
-// .post-title {
-//   font-family: 'Assistant', sans-serif;
-// }
-//
-// .blog-font {
-//   font-family: 'Cabin', sans-serif;
-//   font-weight: 300;
-//   font-style: normal;
-// }
-//
-// .strong-blog-font {
-//   font-family: 'Cabin', sans-serif;
-//   font-weight: 700;
-//   font-style: normal;
-// }
-//
-// .intro-wrap {
-//   font-family: 'Assistant', sans-serif;
-//   margin-top: 80px;
-//   margin-bottom: 140px;
-// }
-// h1, h2, h3, h4, h5, p, li, span {
-//   letter-spacing: .805px;
-// }
+
+.post-title {
+  font-family: 'Assistant', sans-serif;
+}
+
+.blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.strong-blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.intro-wrap {
+  font-family: 'Assistant', sans-serif;
+  margin-top: 80px;
+  margin-bottom: 140px;
+}
+h1, h2, h3, h4, h5, p, li, span {
+  letter-spacing: .805px;
+}
 
 
 @import "minima";
@@ -69,7 +69,7 @@ $on-laptop:        800px;
 
 body {
   padding-bottom: 0px;
-  font-size: 16px;
+  // font-size: 16px;
   height: 100%;
   // font-family: Verdana,sans-serif;
 }
