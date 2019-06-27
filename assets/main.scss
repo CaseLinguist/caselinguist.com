@@ -4,12 +4,16 @@
 @charset "utf-8";
 
 // Our variables
-
-
-
+// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $base-font-family: 'Rokkitt', serif !default;
+
+// $base-font-family:'Raleway', sans-serif; // NOTE: LOOKS SQUISHED   7/10
+
 $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
 // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
+
+
+
 
 
 $base-font-size:   16px;
@@ -30,51 +34,26 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    1175px;
+
 $on-palm:          600px;
 $on-laptop:        800px;
 
-// .title-text {
-//   letter-spacing: 3px;
-//   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-// }
+.site-title {
+  letter-spacing: 6px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  // font-family: 'Assistant', sans-serif;
+  // font-family: 'Cabin', sans-serif;
+  font-weight: 200;
+}
 
 .post-title {
   font-family: 'Assistant', sans-serif;
 }
 
-.blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.strong-blog-font {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.intro-wrap {
-  font-family: 'Assistant', sans-serif;
-  margin-top: 80px;
-  margin-bottom: 140px;
-}
 h1, h2, h3, h4, h5, p, li, span {
   letter-spacing: .805px;
 }
-
-
-@import "minima";
-@import 'materialize';
-
-body {
-  padding-bottom: 0px;
-  // font-size: 16px;
-  height: 100%;
-  // font-family: Verdana,sans-serif;
-}
-
-
 
 #pew-hispanic-container {
   min-width: 310px;
@@ -83,22 +62,8 @@ body {
   margin: auto auto;
 }
 
-#pinned-reading {
-  border: 1px solid #d5d5d5;
-}
-
-
-.page-heading {
-  margin-left: -5px;
-}
-
-.collection.with-header .collection-item {
-  margin-left: 18px;
-}
-
-.blog-collection-item {
-    margin-left: -30px;
-}
+@import "minima";
+@import 'materialize';
 
 .ilike-amber-container:hover {
   @extend .amber, .lighten-1;
@@ -117,6 +82,17 @@ a:visited, a:hover {
 }
 
 
+.blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.strong-blog-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
 .page-footer {
   padding-top: 0px;
@@ -128,9 +104,6 @@ a:visited, a:hover {
   // border-top: 5px solid #5fa0a1;
   border-bottom: none;
 }
-
-
-
 
 // CSS splash-section addition
 .heading-jumbo {
@@ -153,6 +126,11 @@ a:visited, a:hover {
 
 }
 
+.intro-wrap {
+  font-family: 'Assistant', sans-serif;
+  margin-top: 80px;
+  margin-bottom: 140px;
+}
 
 .msg-container {
   width: 100%;
