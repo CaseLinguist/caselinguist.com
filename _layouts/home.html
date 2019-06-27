@@ -66,15 +66,19 @@ excerpt_separator: <!-- more -->
                   </div>
 
                 </div>
-                <span class='blog-font'>{{ post.excerpt }}</span>
+                <div class='blog-font'>{{ post.excerpt }}</div>
 
 
               </li>
-              <div class='align-right'>
-                <a id="pinned-reading" class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
-                  Keep Reading...
-                </a>
-              </div>
+
+              <li>
+                <div class='align-right'>
+                  <a id="pinned-reading" class='waves-effect waves-blue btn btn-flat btn-small ilike-blue-container' href='{{ post.url | relative_url }}'>
+                    Keep Reading...
+                  </a>
+                </div>
+
+              </li>
               {% endif %}
               {% endfor %}
             </ul>

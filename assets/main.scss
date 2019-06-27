@@ -4,12 +4,12 @@
 @charset "utf-8";
 
 // Our variables
-// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $base-font-family: 'Rokkitt', serif !default;
 
 // $base-font-family:'Raleway', sans-serif; // NOTE: LOOKS SQUISHED   7/10
 
-$base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
+// $base-font-family:'Assistant', sans-serif; // // NOTE: IS ON-MESSAGE , LOOKS MARKET-Y 7.7/10
 // $base-font-family:'Cabin', sans-serif;  //NOTE:  looks malleable, flexible : 5/10 but with potential (lighter?)
 
 
@@ -39,7 +39,7 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 .site-title {
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   // font-family: 'Assistant', sans-serif;
@@ -48,7 +48,9 @@ $on-laptop:        800px;
 }
 
 .post-title {
-  font-family: 'Assistant', sans-serif;
+  // font-family: 'Assistant', sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  // font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, p, li, span {
@@ -65,6 +67,24 @@ h1, h2, h3, h4, h5, p, li, span {
 @import "minima";
 @import 'materialize';
 
+
+#pinned-reading {
+  font-family: 'Cabin', sans-serif;
+  border: 1px solid #d5d5d5;
+}
+
+
+.page-heading {
+  margin-left: -5px;
+}
+
+.collection.with-header .collection-item {
+  margin-left: 18px;
+}
+
+.blog-collection-item {
+    margin-left: -30px;
+}
 .ilike-amber-container:hover {
   @extend .amber, .lighten-1;
 }
@@ -82,13 +102,14 @@ a:visited, a:hover {
 }
 
 
-.blog-font {
+.blog-font, .end-section {
   font-family: 'Cabin', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
 }
 
-.strong-blog-font {
+
+.strong-blog-font, .page-heading {
   font-family: 'Cabin', sans-serif;
   font-weight: 700;
   font-style: normal;
