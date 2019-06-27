@@ -53,3 +53,6 @@ collections:
     pricing_level: "comprehensive"
 
 primary_tag_desc: "Hispanic Legal Marketing" # not "home"
+
+minima:
+  date_format: '%A, %B %e, %Y'
