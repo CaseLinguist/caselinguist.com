@@ -11,7 +11,7 @@ published: true
 
 
 Many business owners have turned to Google and/or Bing to obtain automatically generated translations of their existing website content. We call these automatic translations _machine translations_.
-Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients. When google observes that your users become confused and leave your website prematurely, they might lower your relevancy rating.
+Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients. When Google observes that your users become confused and leave your website prematurely, they might lower your relevancy rating.
 This, in turn, will make it more difficult for future clients to find you.  
 Fortunately, an SEO expert with fluency in Spanish can help you avoid this pitfall and the unfortunate after-effects.
 
@@ -25,7 +25,7 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 
 There are different ways of going about putting a website together.  
-1. doing everything perfectly from the start
+1. doing everything perfectly from the start (less realistic)
 2. adding features to your web properties (more common)
 
 There are major considerations in integrating translations.
@@ -35,7 +35,7 @@ B. is it local? (yes we are)
 C. do you need to have a spanish version of everything?
 
 
-### C
+### Submit a translatio
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?.
 
@@ -79,4 +79,4 @@ www.cookcountyil.gov// has done good.  But do we need to go that far? no.
 So here are cost effective *spot submissions" :
 
 Catch the glaringly wrong machine translations, and submit _those_ to google as one would a sitemap.
-## Generally dealing with a persion
+## Generally dealing with a person
