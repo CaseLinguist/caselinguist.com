@@ -19,7 +19,7 @@ Cost effectiveness is one of the primary considerations for any small law firm c
 I work to ensure cost effectiveness through something called _spot submissions_.  
 A _spot submission_ is taking the glaringly obvious machine translation 'errors' and transforming them to fit the context and register.  Submitting those to google the machine translation rendered on the page has less opportunity to trip a person up.
 
-### Why my services are cost effective
+## Why my services are cost effective
 
 
 
@@ -43,7 +43,7 @@ We have the option to submit a sitemap that details the structure of the webpage
 A crawl has the ability the clue-in the crawling robots to what the context is held within that structure.   Why not do the same for translations? -->
 
 
-## examples of #2 Pitfalls
+### examples of #2 Pitfalls
 Here is a translation example:
 
 ![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.png)
@@ -56,7 +56,7 @@ This should be our clue:
 
 ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
 
-## A better examples of #2
+### Better examples of errors
 
 Sometimes its easier to go with with a proper targeted translation.
 <!-- ![cook count il website few but solid translation options]({{site.baseurl}}/https://www.dropbox.com/s/8sv0zz1hzr2on9o/Screenshot%202019-06-19%2009.45.27.png?dl=0) -->
@@ -74,7 +74,7 @@ The top un-confusing words are "servicios" and "instalaciones":
 <!-- https://context.reverso.net/translation/english-spanish/facilities -->
 
 
-## Integrating Spot Submissions
+#### Integrating Spot Submissions
 
 
 www.cookcountyil.gov// has done good.  But do we need to go that far? no.
