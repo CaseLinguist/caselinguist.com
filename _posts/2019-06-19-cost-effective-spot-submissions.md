@@ -35,7 +35,7 @@ B. is it local? (yes we are)
 C. do you need to have a spanish version of everything?
 
 
-### Submit a translatio
+### Submit a translation
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?.
 
