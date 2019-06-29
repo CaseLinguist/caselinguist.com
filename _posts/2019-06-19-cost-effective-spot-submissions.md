@@ -54,7 +54,7 @@ This is the page the feature is offered on:
 
 This should be our clue:
 <br/>
-<!-- ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-gamut.jpg) -->
+![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-gamut.png)
 
 ## A better examples of #2
 
