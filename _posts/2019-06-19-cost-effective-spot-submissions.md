@@ -37,22 +37,24 @@ C. do you need to have a spanish version of everything?
 
 ### Submit a translation
 
-We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?.
+We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?
 
 <!-- This logic is as follows
 A crawl has the ability the clue-in the crawling robots to what the context is held within that structure.   Why not do the same for translations? -->
 
 
 ## examples of #2 Pitfalls
-Here is a translation example
-
+Here is a translation example:
+<br/>
 ![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.png)
 
 This is the page the feature is offered on:
+<br/>
  ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option.png)
 
 This should be our clue:
-<!-- ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/https://www.dropbox.com/s/387m9qnu7sd1qku/Screenshot%202019-06-19%2009.42.23.png?dl=0) -->
+<br/>
+<!-- ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-gamut.jpg) -->
 
 ## A better examples of #2
 
