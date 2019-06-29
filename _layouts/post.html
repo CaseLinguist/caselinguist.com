@@ -10,20 +10,6 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-
-      {%- if page.author -%}
-      <br/>
-      <br/>
-      <br/>
-      <a href='{{ "/about/" | relative_url }}'>
-        <div class="chip">
-          <img src='/assets/images/rene-avatar.jpg' alt="Contact Person Rene">
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-        </div>
-      </a>
-      <br/>
-      <br/>
-      {%- endif -%}
     </div>
   </header>
 
@@ -37,7 +23,17 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-
-
+  {%- if page.author -%}
+  <br/>
+  <a href='{{ "/about/" | relative_url }}'>
+    <div class="chip">
+      <img src='/assets/images/rene-avatar.jpg' alt="Contact Person Rene">
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+    </div>
+  </a>
+  <br/>
+  <br/>
+  <br/>  
+  {%- endif -%}
 
 </article>

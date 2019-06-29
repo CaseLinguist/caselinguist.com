@@ -5,16 +5,16 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-05-30
+last_modified_at: 2019-06-29
 ---
 
 How do we make sure we have avoided a benign post-processing language initiative? Imagine, for a moment, tech in films in the near-distant past; the pre-NCIS days when a security camera had seemingly infinite resolution.  How do we continually claim to ”enhance” that which we’ve already ”enhanced” before? Optimization is most important if it insists on keeping the translation concurrent.  The modern SEO is at most risk of being left detached from the crucial process of scoping high-value content.  The SEO drills down into intent markers and present at the moment where a proper foundation is built.
 
 Is it possible to target keywords at a stage that hinders the objective?
 
-###  Current app-scape
+## Fax is the current landscape
 
-In general, an explanation to current courts backlog is likely to involve:
+The following are hinderance:
 
 - seeing old technologies stick around longer.
 
