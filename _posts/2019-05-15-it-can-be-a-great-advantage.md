@@ -36,4 +36,4 @@ The job of SEO requires a keen ear to the flows of information.  Keyword researc
 
 The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.
 
--René
+René

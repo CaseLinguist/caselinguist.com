@@ -23,4 +23,4 @@ In a relatively short amount of time, you can plan on having clients better loca
 
 Start collaborating with an SEO with a legal marketing focus.
 
--René
+René

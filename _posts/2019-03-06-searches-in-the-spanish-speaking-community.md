@@ -5,12 +5,14 @@ lang: en
 categories: Law-Firm-SEO Immigration
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-06-12
+last_modified_at: 2019-06-29
 chart: true
-
+excerpt_separator: <!--more-->
 ---
 
-If you work with clients in Criminal and Immigration court, it is likely that many of your clients will search for your services in a foreign language.  Many of these searches will be conducted in Spanish.
+If you work with clients in Criminal and Immigration court, it is likely that many of your clients will search for your services in a foreign language.  
+<!--more-->
+Many of these searches will be conducted in Spanish.
 
 Although this might seem common sense, it often not something that small law firms in the United States consider.  Lawyers are understandably focused on their current clients. Most practitioners have limited time and few extra resources to devote to the nuances of internet marketing.
 
