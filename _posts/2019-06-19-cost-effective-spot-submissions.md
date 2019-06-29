@@ -49,7 +49,7 @@ Here is a translation example
 ![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.png)
 
 This is the page the feature is offered on:
-<!-- ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option.jpg) -->
+ ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option.png)
 
 This should be our clue:
 <!-- ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/https://www.dropbox.com/s/387m9qnu7sd1qku/Screenshot%202019-06-19%2009.42.23.png?dl=0) -->
