@@ -12,12 +12,17 @@ layout: default
       </time>
 
       {%- if page.author -%}
+      <br/>
+      <br/>
+      <br/>
       <a href='{{ "/about/" | relative_url }}'>
         <div class="chip right">
           <img src='/assets/images/rene-avatar.jpg' alt="Contact Person Rene">
           <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         </div>
       </a>
+      <br/>
+      <br/>
       {%- endif -%}
     </div>
   </header>
