@@ -45,7 +45,7 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
 
 ## examples of #2 Pitfalls
 Here is a translation example
-![Auto (machine) translated county website]({{site.baseurl}}/https://www.dropbox.com/s/56q5iang5cxmlw0/Screenshot%202019-06-19%2009.36.01.png?dl=0)
+![Auto (machine) translated county website]({{site.baseurl}}/assets/images/county-machine.jpg)
 
 This is the page the feature is offered on:
 ![county website with translation offering]({{site.baseurl}}/https://www.dropbox.com/s/j36y3xbxu4hltz5/Screenshot%202019-06-19%2009.40.18.png?dl=0)
