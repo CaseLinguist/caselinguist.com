@@ -31,7 +31,7 @@ A large agency might favor the translation outsourcing path.  The risk here is t
 
 With a gathered set of keywords, SEO expertise starting through this point supports the objective.  It is proposed to track the correct meaning throughout.  Careful research through keyword volume tools inherently lets us weed out raw ”literal” translations.
 
-### Conclusion
+## Conclusion
 The job of SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk accepting a process that is quietly lagging.
 
 The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.
