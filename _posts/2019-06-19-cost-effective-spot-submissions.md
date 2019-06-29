@@ -45,18 +45,19 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
 
 ## examples of #2 Pitfalls
 Here is a translation example
-![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.jpg)
+
+![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.png)
 
 This is the page the feature is offered on:
-![county website with translation offering]({{site.baseurl}}/https://www.dropbox.com/s/j36y3xbxu4hltz5/Screenshot%202019-06-19%2009.40.18.png?dl=0)
+<!-- ![county website with translation offering]({{site.baseurl}}/https://www.dropbox.com/s/j36y3xbxu4hltz5/Screenshot%202019-06-19%2009.40.18.png?dl=0) -->
 
 This should be our clue:
-![count website with translation offering showing over 30 language options ]({{site.baseurl}}/https://www.dropbox.com/s/387m9qnu7sd1qku/Screenshot%202019-06-19%2009.42.23.png?dl=0)
+<!-- ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/https://www.dropbox.com/s/387m9qnu7sd1qku/Screenshot%202019-06-19%2009.42.23.png?dl=0) -->
 
 ## A better examples of #2
 
 Sometimes its easier to go with with a proper targeted translation.
-![cook count il website few but solid translation options]({{site.baseurl}}/https://www.dropbox.com/s/8sv0zz1hzr2on9o/Screenshot%202019-06-19%2009.45.27.png?dl=0)
+<!-- ![cook count il website few but solid translation options]({{site.baseurl}}/https://www.dropbox.com/s/8sv0zz1hzr2on9o/Screenshot%202019-06-19%2009.45.27.png?dl=0) -->
 
 The above has few, but solid offerings.  Why is this better?
 
@@ -68,8 +69,7 @@ To show the distinction in meaning:
 In this context search tool *facilidades* does not appear at all:
 
 The top un-confusing words are "servicios" and "instalaciones":
-https://context.reverso.net/translation/english-spanish/facilities
-
+<!-- https://context.reverso.net/translation/english-spanish/facilities -->
 
 
 ## Integrating Spot Submissions
