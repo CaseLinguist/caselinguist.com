@@ -54,7 +54,7 @@ This is the page the feature is offered on:
 
 This should be our clue:
 
-![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-gamut.png)
+![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
 
 ## A better examples of #2
 
