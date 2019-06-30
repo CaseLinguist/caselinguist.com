@@ -46,11 +46,11 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
 ### examples of #2 Pitfalls
 Here is a translation example:
 
-![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine.png)
+![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine-menu.png)
 
 This is the page the feature is offered on:
 
- ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option.png)
+ ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option-sink.png)
 
 This should be our clue:
 
