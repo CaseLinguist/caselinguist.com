@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The pitfalls of machine translation"
+title:  "Pitfalls of machine translation"
 lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-06-29
+last_modified_at: 2019-07-01
 published: true
 ---
 

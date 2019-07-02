@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Content strategy and translation services"
+title:  "Strategy in content translation"
 lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
