@@ -18,7 +18,7 @@ $link-color: color("light-blue", "darken-4") !default;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color:       #6F6F6F;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -92,7 +92,6 @@ a:visited, a:hover {
 }
 
 .site-header {
-  // border-top: 5px solid #5fa0a1;
   border-bottom: none;
 }
 

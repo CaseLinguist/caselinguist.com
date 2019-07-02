@@ -48,7 +48,7 @@ excerpt_separator: <!-- more -->
               {% for post in site.posts %}
               <li>
                 {% if post.pinned %}
-                <span class='post-meta strong-blog-font'>
+                <span class='post-meta strong-blog-font grey-text text-darken-2'>
 
                   {{ post.date | date: "%B %e, %Y" }}
 
@@ -106,17 +106,17 @@ excerpt_separator: <!-- more -->
             <div class="blog-collection-item">
 
 
-              <div class='blog-collection-title'>
+              <div class='blog-collection-title blue-text text-darken-2'>
                 {{ post.title }}
                 <div class='badge'>
                   <div class='hide-on-small-only'>
-                    <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B_%a"}}'>{{currentdate}}</span>
+                    <span class='grey-text text-darken-2 shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B_%a"}}'>{{currentdate}}</span>
                   </div>
                 </div>
               </div>
               <div class="badge">
                 <div class='show-on-small hide-on-med-and-up'>
-                  <span class='grey-text shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
+                  <span class='grey-text text-darken-2 shifty-date date-sub-display' id='y_{{post.date | date: "%Y_%B"}}'>{{currentdate}}</span>
                 </div>
 
               </div>
@@ -128,7 +128,7 @@ excerpt_separator: <!-- more -->
       {% endfor %}
     </div>
     <a href='{{ "/about/" | relative_url }}'>
-      <h3 class='flow-text center-align'>Based in Chicago, IL</h3>
+      <h3 class='flow-text center-align blue-text text-darken-2'>Based in Chicago, IL</h3>
     </a>
 
     <div class="headshot col s12 m3 l5 offset-l1">
