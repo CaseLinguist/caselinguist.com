@@ -17,25 +17,18 @@ Fortunately, an SEO expert with fluency in Spanish can help you avoid this pitfa
 
 Cost effectiveness is one of the primary considerations for any small law firm considering SEO.
 I work to ensure cost effectiveness through something called _spot submissions_.  
-A _spot submission_ is taking the glaringly obvious machine translation 'errors' and transforming them to fit the context and register.  Submitting those to google the machine translation rendered on the page has less opportunity to trip a person up.
+A _spot submission_ is taking the glaringly obvious machine translation 'errors' and transforming them to fit the context and register.  Submitting those to google, the machine translation rendered on the page has less opportunity to trip a person up.
 
 ## Why my services are cost effective
 
+There are different stages of combining the necessary materials to construct an effective website together with effective SEO.  Doing everything perfectly from the start is less realistic and does regard the possibility of building upon the initial work. It is best to consider adding features to your web presence as you and your company grow.
 
-
-
-There are different ways of going about putting a website together.  
-1. doing everything perfectly from the start (less realistic)
-2. adding features to your web properties (more common)
-
+### Translation as piece submission
 There are major considerations in integrating translations.
 
 A. is it global (we are not)
 B. is it local? (yes we are)
 C. do you need to have a spanish version of everything?
-
-
-### Submit a translation
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?
 
