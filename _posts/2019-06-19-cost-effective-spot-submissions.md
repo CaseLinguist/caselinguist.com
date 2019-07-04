@@ -24,11 +24,11 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO.  Doing everything perfectly from the start is less realistic and does regard the possibility of building upon the initial work. It is best to consider adding features to your web presence as you and your company grow.
 
 ### Translation as piece submission
-There are major considerations in integrating translations.
+There are significant considerations to rake part in when integrating translations.
 
 A. is it global (we are not)
 B. is it local? (yes we are)
-C. do you need to have a spanish version of everything?
+C. do you need to have a Spanish version of everything?
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?
 
@@ -45,7 +45,7 @@ This is the page the feature is offered on:
 
  ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option-sink.png)
 
-This should be our clue:
+This should be our clue to indicate a drop in list.
 
 ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
 
