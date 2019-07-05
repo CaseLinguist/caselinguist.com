@@ -7,10 +7,13 @@ tags: Law Technology
 author: Rene M. Paccha
 last_modified_at: 2019-07-04
 published: true
+excerpt: >
+  Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients.
 ---
 
 
 Many business owners have turned to Google and/or Bing to obtain automatically generated translations of their existing website content. We call these automatic translations _machine translations_.
+
 Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients. When Google observes that your users become confused and leave your website prematurely, they might lower your relevancy rating.
 This, in turn, will make it more difficult for future clients to find you.  
 Fortunately, an SEO expert with fluency in Spanish can help you avoid this pitfall and the unfortunate after-effects.
