@@ -92,7 +92,7 @@ excerpt_separator: <!-- more -->
     <div class="col s12 m9 l6">
       <ul class='collection with-header'>
         <li class='collection-header'>
-          <h2 class='page-heading'>Blog</h2>          
+          <h2 class='page-heading'>Blog</h2>
         </li>
         {% for post in site.posts limit:9 %}
         {% assign currentdate = post.date | date: "%b %e - %a" %}
@@ -140,16 +140,6 @@ excerpt_separator: <!-- more -->
 
 
 
-<script type='application/ld+json'>
-
-  {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "{{ site.url }}",
-    "name": "{{ site.title }} | {{ site.primary_tag_desc }} | Chicago, IL",
-    "description": "{{ site.large_tagline }}"
-  }
-
-</script>
+{% include json-ld/website.html url=site.url title=site.title topic=site.primary_tag_desc hook_phrase=site.large_tagline %}
 
 {% include photo-pop.html %}
