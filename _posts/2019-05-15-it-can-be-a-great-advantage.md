@@ -5,7 +5,7 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-06-29
+last_modified_at: 2019-07-04
 excerpt: On an optimized text, recognizing the linguistic nuances is at the core of having a human work on this crucial gathering process.
 ---
 
@@ -15,7 +15,7 @@ How do we make sure we have avoided a benign post-processing language initiative
 
 Is it possible to target keywords at a stage that hinders the objective?
 
-## Fax is the current landscape
+## Current tech landscape feels like fax
 
 The following are hinderance:
 
@@ -34,7 +34,7 @@ A large agency might favor the translation outsourcing path.  The risk here is t
 
 With a gathered set of keywords, SEO expertise starting through this point supports the objective.  It is proposed to track the correct meaning throughout.  Careful research through keyword volume tools inherently lets us weed out raw ”literal” translations.
 
-## Conclusion
+### Conclusion
 The job of SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk accepting a process that is quietly lagging.
 
 The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.

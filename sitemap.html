@@ -8,10 +8,31 @@ exclude: true
   <h1 class="post-title">{{ page.title }}</h1>
 </header>
 
-<h2 class="flow-text">Visual layout</h2>
+<h2 class="flow-text">Pages by category</h2>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/7.1.1/highcharts.src.js" integrity="sha256-/JSfTY/H4K9LQXyfDS4+meKre7KqcDsHH2ZSENd2FnI=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/7.1.1/modules/sankey.src.js" integrity="sha256-PPmfhQ2vPhsZsEL7586QsfPeZz95vnFfGaS8TBPQT+A=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/7.1.1/modules/organization.src.js" integrity="sha256-bYRTO6VFj/kVhhU9SHdAD2gnfWZ0p+pDjXa+n5WNfTc=" crossorigin="anonymous"></script>
+<table>
+  <thead>
+    <tr>
+        <th>Categories</th>
+        <th>Link</th>
+    </tr>
+  </thead>
 
-{% include charts/sitemap.html %}
+  <tbody>
+
+
+
+  {%- for category in site.categories -%}
+    {%- for post in category[1] -%}
+    <tr>
+      <td>{{ category[0] | replace: "-", " " }}</td>
+      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    </tr>
+    {%- endfor -%}
+  {%- endfor -%}
+
+
+
+
+  </tbody>
+</table>
