@@ -24,7 +24,7 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 ## Why my services are cost-effective
 
-There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO.  Doing everything perfectly from the start is less realistic and does regard the possibility of building upon the initial work. It is best to consider adding features to your web presence as you and your company grow.
+There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO.  Having the benefit of all this key knowlege at the onset of website creation is rare.  Building upon the initial work, it is best to consider adding features to your web presence implemention as you and your company grow.
 
 ### Translation as piece submission
 There are significant considerations to rake part in when integrating translations.
@@ -76,5 +76,5 @@ The top un-confusing words are "servicios" and "instalaciones":
 www.cookcountyil.gov// has done good.  But do we need to go that far? no.
 So here are cost effective *spot submissions" :
 
-Catch the glaringly wrong machine translations, and submit _those_ to google as one would a sitemap.
+Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
 #### Generally dealing with a person
