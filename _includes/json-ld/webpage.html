@@ -3,7 +3,7 @@
     "@context": "http://schema.org",
     "@type": "WebPage",
     "name": "{{ include.title }}",
-    "description": "{{ include.excerpt }}",
+    "description": "{{ include.description | strip_html }}",
     "publisher": {
         "@type": "Organization",
         "name": "Case Linguist LLC"
