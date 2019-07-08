@@ -5,7 +5,7 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-07-04
+last_modified_at: 2019-07-08
 published: true
 excerpt: >
   Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients.
