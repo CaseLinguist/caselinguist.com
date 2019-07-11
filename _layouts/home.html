@@ -10,7 +10,34 @@ excerpt_separator: <!-- more -->
       <div class="row center">
         <div class="col s12 l3">
           <span class='center-align'>
-            <img alt='case linguist logo' src='assets/images/logo.webp' width='350'>
+            <!-- <img alt='case linguist logo' src='assets/images/logo.webp' width='350'> -->
+
+            <picture>
+              {% assign logo_pic = "llc-logo.png" %}
+              <source
+                media="(min-width: 479px)"
+                srcset="assets/images/1000_{{ logo_pic }}.webp 1024w,
+                  assets/images/500_{{ logo_pic }}.webp 640w,
+                  assets/images/250_{{ logo_pic }}.webp 320w"
+                type="image/webp" />
+              <source
+                media="(min-width: 767px)"
+                srcset="assets/images/1000_{{ logo_pic }}.jpeg 1024w,
+                  assets/images/500_{{ logo_pic }}.jpeg 640w,
+                  assets/images/250_{{ logo_pic }}.jpeg 320w"
+                type="image/jpeg" />
+              <img
+                srcset="assets/images/1000_{{ logo_pic }} 1024w,
+                  assets/images/500_{{ logo_pic }} 640w,
+                  assets/images/250_{{ logo_pic }} 320w"
+
+                src="assets/images/250_{{ logo_pic }}"
+                alt="rene m paccha chicago willis tower background"
+                alt='case linguist llc logo'
+                width='350'/>
+
+            </picture>
+
           </span>
         </div>
       </div>
