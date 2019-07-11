@@ -10,7 +10,32 @@ excerpt: Consider the advantage you may gain by using the same SEO expert for co
   <div class='col s12 m3 center-on-small-only'>
     <div class='image-container'>
       <div class='card'>
-        <img alt='rene picture wood background' class='materialboxed center-align responsive-img' src='{{ "/assets/about-rene-picture-250.png" | relative_url }}' srcset='{{ "/assets/about-rene-picture-500.png" | relative_url }} 500w, {{ "/assets/about-rene-picture.png" | relative_url }} 1000w' width='650'>
+        <!-- <img alt='rene picture wood background' class='materialboxed center-align responsive-img' src='{{ "/assets/about-rene-picture-250.png" | relative_url }}' srcset='{{ "/assets/about-rene-picture-500.png" | relative_url }} 500w, {{ "/assets/about-rene-picture.png" | relative_url }} 1000w' width='650'> -->
+
+        <picture>
+          {% assign logo_pic = "about-rene-m-paccha.jpg" %}
+          <source
+            media="(min-width: 479px)"
+            srcset="{{ 'assets/images/1000_' | append: logo_pic | append: '.webp' | relative_url }}  1024w,
+              {{ 'assets/images/500_' | append: logo_pic | append: '.webp' | relative_url }} 640w,
+              {{ 'assets/images/250_' | append: logo_pic | append: '.webp' | relative_url }} 320w"
+            type="image/webp" />
+          <source
+            media="(min-width: 767px)"
+            srcset="{{ 'assets/images/1000_' | append: logo_pic | append: '.jpeg' | relative_url }} 1024w,
+              {{ 'assets/images/500_' | append: logo_pic | append: '.jpeg' | relative_url }} 640w,
+              {{ 'assets/images/250_' | append: logo_pic | append: '.jpeg' | relative_url }} 320w"
+            type="image/jpeg" />
+          <img
+            srcset="{{ 'assets/images/1000_' | append: logo_pic | relative_url }} 1024w,
+              {{ 'assets/images/500_' | append: logo_pic | relative_url }} 640w,
+              {{ 'assets/images/250_' | append: logo_pic | relative_url }} 320w"
+
+            src="{{ 'assets/images/250_' | append: logo_pic | relative_url }}"
+            alt="rene m paccha wood background portrait"
+            class='materialboxed center-align responsive-img'/>
+
+        </picture>
       </div>
     </div>
   </div>
