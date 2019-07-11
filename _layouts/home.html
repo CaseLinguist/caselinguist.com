@@ -23,7 +23,7 @@ excerpt_separator: <!-- more -->
             <div class='intro-wrap'>
               <div class='name-text'>Rene M. Paccha</div>
               <div class='paragraph-light'>SEO, Case Linguist LLC</div>
-              <div class='heading-jumbo'>{{ site.large_tagline }}</div>
+              <div id="tagline" class='heading-jumbo'>{{ site.large_tagline }}</div>
             </div>
           </div>
         </div>
@@ -130,9 +130,28 @@ excerpt_separator: <!-- more -->
     </a>
 
     <div class="headshot col s12 m3 l5 offset-l1">
-      <img alt='rene m paccha picture willis tower background' class='needs-to-be-own-thing materialboxed center-align responsive-img'
-      src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-      data-src="/assets/images/rene-m-paccha-chi.jpg">
+      <picture>
+        <source
+          media="(min-width: 479px)"
+          srcset="assets/images/1000_linguist-rene-m-paccha-chicago.jpg.webp 1024w,
+            assets/images/500_linguist-rene-m-paccha-chicago.jpg.webp 640w,
+            assets/images/250_linguist-rene-m-paccha-chicago.jpg.webp 320w"
+          type="image/webp" />
+        <source
+          media="(min-width: 767px)"
+          srcset="assets/images/1000_linguist-rene-m-paccha-chicago.jpg.jpeg 1024w,
+            assets/images/500_linguist-rene-m-paccha-chicago.jpg.jpeg 640w,
+            assets/images/250_linguist-rene-m-paccha-chicago.jpg.jpeg 320w"
+          type="image/jpeg" />
+        <img
+          srcset="assets/images/1000_linguist-rene-m-paccha-chicago.jpg 1024w,
+            assets/images/500_linguist-rene-m-paccha-chicago.jpg 640w,
+            assets/images/250_linguist-rene-m-paccha-chicago.jpg 320w"
+
+          src="assets/images/250_linguist-rene-m-paccha-chicago.jpg"
+          alt="rene m paccha chicago willis tower background"
+          class='needs-to-be-own-thing materialboxed center-align responsive-img'/>
+      </picture>
     </div>
   </div>
 </div>

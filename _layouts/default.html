@@ -15,7 +15,12 @@
 
     {%- include footer.html -%}
     {%- include pro-footer.html -%}
-    {% include image-defer.html %}
+
+
+      {% if jekyll.environment != 'production' %}
+        {% include image-defer.html %}
+      {% endif %}
+
 
   </body>
 

@@ -34,11 +34,17 @@ $on-laptop:        800px;
 
 }
 
-.at-aware, .heading-jumbo, .footer-heading {
+.at-aware, .footer-heading {
   font-family: 'Rokkitt', serif;
   font-weight: 500;
 }
 
+div#tagline {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    letter-spacing: 2.3px;
+    // font-size: 3rem;
+}
 h1, h2, h3, h4, h5, p, li, span {
   letter-spacing: .805px;
 }
@@ -121,7 +127,6 @@ a:visited, a:hover {
 }
 
 .intro-wrap {
-  // font-family: 'Assistant', sans-serif;
   margin-top: 80px;
   margin-bottom: 140px;
 }

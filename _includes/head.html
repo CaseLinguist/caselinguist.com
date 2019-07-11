@@ -33,10 +33,6 @@
   {% include google-analytics.html %}
   {% endif %}
 
-  {% if jekyll.environment == 'production' %}
-  {% include google-analytics.html %}
-  {% endif %}
-
   <!-- Chatra {literal} -->
   <script>
       (function(d, w, c) {
@@ -51,6 +47,14 @@
       })(document, window, 'Chatra');
   </script>
   <!-- /Chatra {/literal} -->
+
+
+
+
+  {% if jekyll.environment != 'production' %}
+    <script src="https://unpkg.com/shubox@0.2.1/dist/shubox.umd.js"></script>
+  {% endif %}
+  
 
   <!-- Business Schema (Head) -->
   {% include json-ld/business.html %}
