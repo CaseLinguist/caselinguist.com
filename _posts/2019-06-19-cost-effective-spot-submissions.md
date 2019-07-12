@@ -50,7 +50,7 @@ This is the page the feature is offered on:
 
  ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option-sink.png)
 
-This should be our clue to indicate a drop in list.
+This should be our clue to indicate a drop-in list.
 
 ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
 
@@ -74,8 +74,7 @@ The top un-confusing words are "servicios" and "instalaciones":
 
 #### Integrating Spot Submissions
 
-
-www.cookcountyil.gov works out well.  But do we need to go that far? no.
+www.cookcountyil.gov works out well.  But do we need to go too far as extending to our efforts out to a separetely localized translation.
 So here are cost effective *spot submissions" :
 
 Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
