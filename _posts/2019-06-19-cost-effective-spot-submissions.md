@@ -46,11 +46,11 @@ Here is a translation example:
 
 ![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine-menu.png)
 
-This is the page the feature is offered on:
+This is the featured and passively translated page:
 
  ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option-sink.png)
 
-This should be our clue to indicate a drop-in list.
+The following should be our clue to indicate a drop-in list.
 
 ![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
 
@@ -65,7 +65,7 @@ Errors.   I the first website we
 
 To show the distinction in meaning:
 
-"Things we have no problem with" to translate "Our facilites".
+"Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
 
 The top un-confusing words are "servicios" and "instalaciones":
@@ -75,7 +75,7 @@ The top un-confusing words are "servicios" and "instalaciones":
 #### Integrating Spot Submissions
 
 www.cookcountyil.gov works out well.  But do we need to go too far as extending to our efforts out to a separetely localized translation.
-So here are cost effective *spot submissions" :
+So here are cost active *spot submissions" :
 
 Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
 #### Generally dealing with a person
