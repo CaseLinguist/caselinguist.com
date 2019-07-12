@@ -75,7 +75,7 @@ The top un-confusing words are "servicios" and "instalaciones":
 #### Integrating Spot Submissions
 
 
-www.cookcountyil.gov// has done good.  But do we need to go that far? no.
+www.cookcountyil.gov works out well.  But do we need to go that far? no.
 So here are cost effective *spot submissions" :
 
 Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
