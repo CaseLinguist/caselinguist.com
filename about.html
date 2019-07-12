@@ -9,10 +9,9 @@ excerpt: Consider the advantage you may gain by using the same SEO expert for co
   <br>
   <div class='col s12 m3 center-on-small-only'>
     <div class='image-container'>
-      <div class='card'>
-        <!-- <img alt='rene picture wood background' class='materialboxed center-align responsive-img' src='{{ "/assets/about-rene-picture-250.png" | relative_url }}' srcset='{{ "/assets/about-rene-picture-500.png" | relative_url }} 500w, {{ "/assets/about-rene-picture.png" | relative_url }} 1000w' width='650'> -->
 
-        <picture>
+
+        <picture class='materialboxed center-align'>
           {% assign logo_pic = "about-rene-m-paccha.jpg" %}
           <source
             media="(min-width: 479px)"
@@ -33,10 +32,11 @@ excerpt: Consider the advantage you may gain by using the same SEO expert for co
 
             src="{{ 'assets/images/250_' | append: logo_pic | relative_url }}"
             alt="rene m paccha wood background portrait"
-            class='materialboxed center-align responsive-img'/>
+            class="z-depth-2"
+            />
 
         </picture>
-      </div>
+
     </div>
   </div>
   <div class='col s12 m8 center-on-small-only'>
