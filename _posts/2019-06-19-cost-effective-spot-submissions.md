@@ -61,7 +61,7 @@ We have the option to submit a sitemap that details the structure of the webpage
 
  <div class="row">
      <div class="col s12 m7">
-       <div class="card small ">
+       <div class="card horizontal ">
          <div class="card-image">
 
            <picture>
