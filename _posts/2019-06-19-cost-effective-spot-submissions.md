@@ -35,7 +35,7 @@ This, in turn, will make it more difficult for future clients to find you.
 Fortunately, an SEO expert with fluency in Spanish can help you avoid this pitfall and the unfortunate after-effects.
 
 Cost-effectiveness is one of the primary considerations for any small law firm considering SEO.
-I work to ensure cost effectiveness through something called _spot submissions_.  
+I work to ensure cost-effectiveness through something called _spot submissions_.  
 A _spot submission_ is taking the glaringly obvious machine translation 'errors' and transforming them to fit the context and register.  Submitting those to Google, the machine translation rendered on the page has less opportunity to trip a person up.
 
 ## Why my services are cost-effective
