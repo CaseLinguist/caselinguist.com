@@ -7,6 +7,8 @@ tags: Law Technology
 author: Rene M. Paccha
 last_modified_at: 2019-07-12
 published: true
+phrasing: Catch the glaringly wrong machine translations, and have an SEO (as translator) submit those to relevant search engines.
+closing: All the best,
 ---
 
 
@@ -120,6 +122,3 @@ In the first website we try to show the distinction in meaning:
 In this context search tool *facilidades* does not appear at all:
 
 The fruits of our efforts point to a separately localized, and therefore maintained, translation.
-####  Spot submissions
-
-Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.

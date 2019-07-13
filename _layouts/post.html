@@ -36,14 +36,20 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
   {%- if page.author -%}
-  <br/>
+    {%- if page.phrasing and page.closing -%}
+      {%- include wrap.html phrasing=page.phrasing closing=page.closing -%}
+    {%- endif -%}
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
   <a href='{{ "/about/" | relative_url }}'>
     <div class="chip">
       <img src='/assets/images/rene-avatar.svg' alt="Contact Person Rene">
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
     </div>
   </a>
-  <br/>
   <br/>
   <br/>
   {%- endif -%}

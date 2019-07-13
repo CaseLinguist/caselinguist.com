@@ -7,6 +7,8 @@ tags: Law Technology
 author: Rene M. Paccha
 last_modified_at: 2019-06-29
 chart: true
+phrasing: "I look forward to hearing from you and working together on how to improve your Spanish SEO campaign."
+closing: "All the best,"
 ---
 
 If you work with clients in Criminal and Immigration court, it is likely that many of your clients will search for your services in a foreign language.  
@@ -37,20 +39,6 @@ By performing SEO optimization in Spanish, you can also help prospective clients
 This chart shows the ratio of web user interest over time in the search terms *abogado* and *notario* in Illinois. For example, on July 22, 2018, roughly 25 people searched for "notario" for every 50 who searched for "abogado".  As you can see, *notario* is a relatively common search term that might mislead some clients.
 
 {% include charts/abogado-trends.html %}
-
-<br/>
-<br/>
-
-I look forward to hearing from you and working together on how to improve your Spanish SEO campaign.
-<br/>
-<br/>
-
-
-All the best,
-<br/>
-<br/>
-René
-
 
 
 

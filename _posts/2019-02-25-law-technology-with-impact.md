@@ -7,6 +7,8 @@ tags: Law Technology
 author: Rene M. Paccha
 pinned: true
 excerpt_separator: <!--more-->
+phrasing: Start collaborating with an SEO with a legal marketing focus.
+closing: ""
 ---
 
 
@@ -19,7 +21,3 @@ In researching and building an SEO strategy, I draw on my training as a court in
 <!--more-->
 
 In a relatively short amount of time, you can plan on having clients better locate your impactful legal services through online engagement. You will gain a competitive edge over direct competitors.   In addition, you might become aware of prospective clients you have not previously considered or attracted to your business.
-
-Start collaborating with an SEO with a legal marketing focus.
-
-René

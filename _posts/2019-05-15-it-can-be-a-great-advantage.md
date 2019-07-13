@@ -5,7 +5,9 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-07-04
+last_modified_at: 2019-07-13
+phrasing: Aim to use the same professional for both SEO as translator and as content analyst.
+closing: "Best,"
 ---
 
 There are differences between one written phrase and its closest peer. On an optimized text, recognizing the linguistic nuances is at the core of having a human work on this crucial gathering process.
@@ -36,6 +38,4 @@ With a gathered set of keywords, SEO expertise starting through this point suppo
 ### Conclusion
 The job of SEO requires a keen ear to the flows of information.  Keyword research, whether in Spanish or not, must be dynamic -- or risk accepting a process that is quietly lagging.
 
-The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that of using the same professional for both SEO as a translator and as a content analyst lets you directly address the value of SEO in Spanish.
-
-René
+The fight is to dispense with static snapshots.  Assure the deliverable are dynamic readouts of market information. Advantages like that let you directly address the value of SEO in Spanish.
