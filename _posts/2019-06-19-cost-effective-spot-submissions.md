@@ -63,14 +63,13 @@ We have the option to submit a sitemap that details the structure of the webpage
           <picture>
             {% include normalized.html image_source="machine-menu.png" alt="Auto (machine) translated county website" %}
           </picture>
-
         </div>
         <div class="card-content">
           <p>Here is a translation example.</p>
         </div>
       </div>
     </div>
-  </div>
+   </div>
 
 
  <div class="row">
@@ -81,7 +80,6 @@ We have the option to submit a sitemap that details the structure of the webpage
            <picture>
              {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
            </picture>
-
          </div>
          <div class="card-content">
            <p>This is the featured and passively translated page.</p>
@@ -99,7 +97,6 @@ We have the option to submit a sitemap that details the structure of the webpage
     <div class="col s12 m7">
       <div class="card small ">
         <div class="card-image">
-
           <picture>
             {% include normalized.html image_source="solid-options.png" alt="website few but solid translation options" %}
           </picture>
@@ -111,9 +108,9 @@ We have the option to submit a sitemap that details the structure of the webpage
     </div>
   </div>
 
-The above has few, but solid offerings.  Why is this better?
+The above has few, but markedly solid offerings.  
 
-In the first website, we try to show the distinction in meaning:
+Why is this better?  In the first website, we try to show the distinction in meaning:
 
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
