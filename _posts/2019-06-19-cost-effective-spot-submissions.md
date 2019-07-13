@@ -113,7 +113,7 @@ We have the option to submit a sitemap that details the structure of the webpage
 
 The above has few, but solid offerings.  Why is this better?
 
-In the first website we try to show the distinction in meaning:
+In the first website, we try to show the distinction in meaning:
 
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
