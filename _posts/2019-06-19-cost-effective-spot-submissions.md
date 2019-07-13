@@ -51,9 +51,6 @@ We have the option to submit a sitemap that details the structure of the webpage
         <div class="card-content">
           <p>Here is a translation example.</p>
         </div>
-        <!-- <div class="card-action">
-          <a href="#">This is a link</a>
-        </div> -->
       </div>
     </div>
   </div>
