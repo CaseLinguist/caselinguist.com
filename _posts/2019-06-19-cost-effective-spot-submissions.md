@@ -40,14 +40,13 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 ## Why my services are cost-effective
 
-There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO.  Having the benefit of all this key knowledge at the onset of website creation is rare.  Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
+There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge at the onset of website creation is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
 
 ### Significant considerations in integrating translations.
 
-
-A. is it global (we are not)
-B. is it local? (yes we are)
-C. do you need to have a Spanish version of everything?
+- Is it global (we are not)
+- Is it local? (yes we are)
+- Do you need to have a Spanish version of everything?
 
 ### On submitting targeted translations
 
