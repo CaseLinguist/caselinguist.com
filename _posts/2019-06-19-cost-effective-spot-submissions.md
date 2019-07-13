@@ -31,9 +31,9 @@ A. is it global (we are not)
 B. is it local? (yes we are)
 C. do you need to have a Spanish version of everything?
 
-### Submitting targeted translations.
+### On submitting targeted translations
 
-We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?
+We have the option to submit a sitemap that details the structure of the webpage, so why not clue-in a web search engine into the correct intent through flag-in-the-sand translation?
 
 ### Examples of Pitfalls
 
