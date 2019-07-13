@@ -10,7 +10,23 @@ published: true
 phrasing: Catch the glaringly wrong machine translations, and have an SEO (as translator) submit those to relevant search engines.
 closing: All the best,
 ---
+<div class="row">
+    <div class="col s12 m7">
+      <div class="card small ">
+        <div class="card-image">
 
+          <picture>
+            {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
+          </picture>
+
+          <span class="card-title black-text">All Languages</span>
+        </div>
+        <div class="card-content">
+          <p>The following should be our clue to indicate a drop-in list.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 Many business owners have turned to Google up to and including Bing to obtain automatically generated translations of their existing website content. We call these automatic translations _machine translations_.
 
@@ -75,23 +91,6 @@ We have the option to submit a sitemap that details the structure of the webpage
    </div>
 
 
-<div class="row">
-    <div class="col s12 m7">
-      <div class="card small ">
-        <div class="card-image">
-
-          <picture>
-            {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
-          </picture>
-
-          <span class="card-title black-text">All Languages</span>
-        </div>
-        <div class="card-content">
-          <p>The following should be our clue to indicate a drop-in list.</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
 
 ### Better examples of errors
