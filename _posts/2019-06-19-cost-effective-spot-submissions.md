@@ -46,7 +46,6 @@ We have the option to submit a sitemap that details the structure of the webpage
             {% include normalized.html image_source="machine-menu.png" alt="Auto (machine) translated county website" %}
           </picture>
 
-          <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
           <p>Here is a translation example.</p>
@@ -65,7 +64,6 @@ We have the option to submit a sitemap that details the structure of the webpage
              {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
            </picture>
 
-           <span class="card-title">Card Title</span>
          </div>
          <div class="card-content">
            <p>This is the featured and passively translated page.</p>
@@ -84,7 +82,7 @@ We have the option to submit a sitemap that details the structure of the webpage
             {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
           </picture>
 
-          <span class="card-title">Card Title</span>
+          <span class="card-title black-text">All Languages</span>
         </div>
         <div class="card-content">
           <p>The following should be our clue to indicate a drop-in list.</p>
@@ -96,19 +94,32 @@ We have the option to submit a sitemap that details the structure of the webpage
 
 ### Better examples of errors
 
-Sometimes its easier to go with with a proper targeted translation.
-<!-- ![cook count il website few but solid translation options]({{site.baseurl}}/https://www.dropbox.com/s/8sv0zz1hzr2on9o/Screenshot%202019-06-19%2009.45.27.png?dl=0) -->
+<div class="row">
+    <div class="col s12 m7">
+      <div class="card small ">
+        <div class="card-image">
+
+          <picture>
+            {% include normalized.html image_source="solid-options.png" alt="website few but solid translation options" %}
+          </picture>
+
+          <span class="card-title">Card Title</span>
+        </div>
+        <div class="card-content">
+          <p>Going with with a proper targeted translation is thorough, but not cost effective.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 The above has few, but solid offerings.  Why is this better?
 
-Errors.   I the first website we
-
-To show the distinction in meaning:
+In the first website we try to show the distinction in meaning:
 
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
 
-The targets  of our efforts out to a separately localized, and therefore maintained, translation.
-####  spot submissions
+The fruits of our efforts point to a separately localized, and therefore maintained, translation.
+####  Spot submissions
 
 Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
