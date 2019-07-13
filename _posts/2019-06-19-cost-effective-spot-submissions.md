@@ -14,11 +14,9 @@ closing: All the best,
     <div class="col s12 m7">
       <div class="card small ">
         <div class="card-image">
-
           <picture>
             {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
           </picture>
-
           <span class="card-title black-text">All Languages</span>
         </div>
         <div class="card-content">
@@ -58,7 +56,6 @@ We have the option to submit a sitemap that details the structure of the webpage
     <div class="col s12 m7">
       <div class="card horizontal ">
         <div class="card-image">
-
           <picture>
             {% include normalized.html image_source="machine-menu.png" alt="Auto (machine) translated county website" %}
           </picture>
@@ -70,12 +67,10 @@ We have the option to submit a sitemap that details the structure of the webpage
     </div>
    </div>
 
-
  <div class="row">
      <div class="col s12 m7">
        <div class="card horizontal ">
          <div class="card-image">
-
            <picture>
              {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
            </picture>
@@ -86,8 +81,6 @@ We have the option to submit a sitemap that details the structure of the webpage
        </div>
      </div>
    </div>
-
-
 
 
 ### Better examples of errors
