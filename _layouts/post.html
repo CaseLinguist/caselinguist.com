@@ -11,6 +11,18 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
     </div>
+
+    <time>
+      {% if page.last_modified_at %}
+        <br/>
+
+        <p class="left black-text">Updated: <time datetime='{{ page.last_modified_at | date: "%B %e, %Y"}}'>{{ page.last_modified_at | date: "%B %e, %Y"}}</time></p>
+        <br/>
+        <br/>
+        <br/>
+
+      {% endif %}
+    </time>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

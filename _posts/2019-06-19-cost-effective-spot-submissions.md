@@ -46,13 +46,54 @@ Here is a translation example:
 
 ![Auto (machine) translated county website]({{ site.baseurl }}/assets/images/county-machine-menu.png)
 
-This is the featured and passively translated page:
 
- ![county website with translation offering]({{ site.baseurl }}/assets/images/county-machine-option-sink.png)
 
-The following should be our clue to indicate a drop-in list.
 
-![count website with translation offering showing over 30 language options ]({{site.baseurl}}/assets/images/county-machine-list.jpg)
+ <div class="row">
+     <div class="col s12 m7">
+       <div class="card small ">
+         <div class="card-image">
+
+           <picture class='card'>
+             {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
+           </picture>
+
+           <span class="card-title">Card Title</span>
+         </div>
+         <div class="card-content">
+           <p>This is the featured and passively translated page.</p>
+         </div>
+         <div class="card-action">
+           <a href="#">This is a link</a>
+         </div>
+       </div>
+     </div>
+   </div>
+
+
+
+
+<div class="row">
+    <div class="col s12 m7">
+      <div class="card small ">
+        <div class="card-image">
+
+          <picture class='card'>
+            {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
+          </picture>
+
+          <span class="card-title">Card Title</span>
+        </div>
+        <div class="card-content">
+          <p>The following should be our clue to indicate a drop-in list.</p>
+        </div>
+        <div class="card-action">
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
 ### Better examples of errors
 

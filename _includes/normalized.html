@@ -1,0 +1,23 @@
+{% assign picture_source = include.image_source  %}
+{% assign alt = include.alt  %}
+<source
+  media="(min-width: 479px)"
+  srcset="{{ 'assets/images/1000_' | append: picture_source | append: '.webp' | relative_url }}  1024w,
+    {{ 'assets/images/500_' | append: picture_source | append: '.webp' | relative_url }} 640w,
+    {{ 'assets/images/250_' | append: picture_source | append: '.webp' | relative_url }} 320w"
+  type="image/webp" />
+<source
+  media="(min-width: 767px)"
+  srcset="{{ 'assets/images/1000_' | append: picture_source | append: '.jpeg' | relative_url }} 1024w,
+    {{ 'assets/images/500_' | append: picture_source | append: '.jpeg' | relative_url }} 640w,
+    {{ 'assets/images/250_' | append: picture_source | append: '.jpeg' | relative_url }} 320w"
+  type="image/jpeg" />
+<img
+  srcset="{{ 'assets/images/1000_' | append: picture_source | relative_url }} 1024w,
+    {{ 'assets/images/500_' | append: picture_source | relative_url }} 640w,
+    {{ 'assets/images/250_' | append: picture_source | relative_url }} 320w"
+
+  src="{{ 'assets/images/250_' | append: picture_source | relative_url }}"
+  alt="{{ alt }}"
+  class="z-depth-2"
+  />
