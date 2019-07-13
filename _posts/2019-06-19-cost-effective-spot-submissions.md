@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Pitfalls of machine translation"
+title:  Pitfalls of machine translation
 lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
 last_modified_at: 2019-07-12
 published: true
-excerpt: >
-  Machine translations have the benefit of being cheap. Unfortunately, they tend to generate mistakes that can be misleading for prospective clients.
 ---
 
 
@@ -37,11 +35,7 @@ C. do you need to have a Spanish version of everything?
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not submit a translation?
 
-<!-- This logic is as follows
-A crawl has the ability the clue-in the crawling robots to what the context is held within that structure.   Why not do the same for translations? -->
-
-
-### examples of Pitfalls
+### Examples of Pitfalls
 
 <div class="row">
     <div class="col s12 m7">
@@ -79,14 +73,9 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
          <div class="card-content">
            <p>This is the featured and passively translated page.</p>
          </div>
-         <!-- <div class="card-action">
-           <a href="#">This is a link</a>
-         </div> -->
        </div>
      </div>
    </div>
-
-
 
 
 <div class="row">
@@ -103,9 +92,6 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
         <div class="card-content">
           <p>The following should be our clue to indicate a drop-in list.</p>
         </div>
-        <!-- <div class="card-action">
-          <a href="#">This is a link</a>
-        </div> -->
       </div>
     </div>
   </div>
