@@ -43,8 +43,6 @@ A crawl has the ability the clue-in the crawling robots to what the context is h
 
 ### examples of Pitfalls
 
-
-
 <div class="row">
     <div class="col s12 m7">
       <div class="card horizontal ">
@@ -127,14 +125,7 @@ To show the distinction in meaning:
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
 
-The top un-confusing words are "servicios" and "instalaciones":
-<!-- https://context.reverso.net/translation/english-spanish/facilities -->
-
-
-#### Integrating Spot Submissions
-
-www.cookcountyil.gov works out well.  But do we need to go too far as extending to our efforts out to a separetely localized translation.
-So here are cost active *spot submissions" :
+The targets  of our efforts out to a separately localized, and therefore maintained, translation.
+####  spot submissions
 
 Catch the glaringly wrong machine translations, and submit _those_ to Google as one would a sitemap.
-#### Generally dealing with a person
