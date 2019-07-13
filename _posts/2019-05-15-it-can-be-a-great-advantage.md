@@ -6,7 +6,6 @@ categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
 last_modified_at: 2019-07-04
-excerpt: On an optimized text, recognizing the linguistic nuances is at the core of having a human work on this crucial gathering process.
 ---
 
 There are differences between one written phrase and its closest peer. On an optimized text, recognizing the linguistic nuances is at the core of having a human work on this crucial gathering process.
