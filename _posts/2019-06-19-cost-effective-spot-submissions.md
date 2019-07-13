@@ -103,8 +103,6 @@ We have the option to submit a sitemap that details the structure of the webpage
           <picture>
             {% include normalized.html image_source="solid-options.png" alt="website few but solid translation options" %}
           </picture>
-
-          <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
           <p>Going with with a proper targeted translation is thorough, but not cost effective.</p>
