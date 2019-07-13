@@ -114,4 +114,6 @@ Why is this better?  In the first website, we try to show the distinction in mea
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
 
-The fruits of our efforts point to a separately localized, and therefore maintained, translation.
+
+
+The fruits of our efforts point to a separately maintained translation.
