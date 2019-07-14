@@ -38,7 +38,7 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 ## Why my services are cost-effective
 
-There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge at the onset of website creation is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
+There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge is tough.  Furthermore, being armed with this at the onset of website creation, is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
 
 ### Significant considerations in integrating translations.
 
@@ -106,4 +106,3 @@ Why is this better?  In the first website, we try to show the distinction in mea
 
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
-
