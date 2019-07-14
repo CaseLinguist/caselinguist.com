@@ -83,7 +83,7 @@ We have the option to submit a sitemap that details the structure of the webpage
    </div>
 
 
-### Better examples of errors
+### Separately maintained translation
 
 <div class="row">
     <div class="col s12 m7">
@@ -107,6 +107,3 @@ Why is this better?  In the first website, we try to show the distinction in mea
 "Things we have no problem with" to translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
 
-
-
-The fruits of our efforts point to a separately maintained translation.
