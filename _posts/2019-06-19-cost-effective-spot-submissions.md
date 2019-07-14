@@ -104,5 +104,5 @@ The above has few, but markedly solid offerings.
 
 Why is this better?  In the first website, we try to show the distinction in meaning:
 
-"Things we have no problem with" to translate "Our facilities."
+"Things we have no problem with" is the resultant approximation in the attempt to machine-translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
