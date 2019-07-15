@@ -9,6 +9,8 @@ pinned: true
 excerpt_separator: <!--more-->
 phrasing: Start collaborating with an SEO with a legal marketing focus.
 closing: ""
+sitemap:
+  priority: 7
 ---
 
 

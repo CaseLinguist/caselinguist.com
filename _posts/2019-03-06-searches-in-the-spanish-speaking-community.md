@@ -9,6 +9,11 @@ last_modified_at: 2019-06-29
 chart: true
 phrasing: "I look forward to hearing from you and working together on how to improve your Spanish SEO campaign."
 closing: "All the best,"
+sitemap:
+  changefreq: monthly
+  priority: 7
+  images:
+    - moz-abogado-volume.png
 ---
 
 If you work with clients in Criminal and Immigration court, it is likely that many of your clients will search for your services in a foreign language.  
@@ -30,7 +35,25 @@ According to [Internet World Stats](https://www.internetworldstats.com/stats13.h
 "Abogado" means lawyer in Spanish. As this chart indicates, 6.5-9.3 thousand people search Google for the keyword *Abogado* each month in the United States. You can make these potential clients feel more comfortable by addressing them in their native language.
 
 
-{% include pricecards/moz-abogado.html %}
+<div class="row">
+    <div class="col s12 m8 l6">
+        <div class="card">
+            <div class="image-responsive center">
+              <picture>
+                {% include normalized.html image_source="moz-abogado-volume.png" alt="6.5k-9.3k moz volume visualization" %}
+              </picture>
+              <br/>
+            </div>
+            <div class="card-stacked"></div>
+            <div class="card-action center-align">
+             <div class="black-text">
+               <img height="20" src="/assets/moz_logo.png" alt="moz logo">
+             </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 ### Keywords and Spanish-speaking searchers
 
