@@ -14,11 +14,9 @@ closing: All the best,
     <div class="col s12 m7">
       <div class="card small ">
         <div class="card-image">
-
           <picture>
             {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
           </picture>
-
           <span class="card-title black-text">All Languages</span>
         </div>
         <div class="card-content">
@@ -40,7 +38,7 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 ## Why my services are cost-effective
 
-There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge at the onset of website creation is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
+There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge is tough.  Furthermore, being armed with this at the onset of website creation, is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
 
 ### Significant considerations in integrating translations.
 
@@ -58,7 +56,6 @@ We have the option to submit a sitemap that details the structure of the webpage
     <div class="col s12 m7">
       <div class="card horizontal ">
         <div class="card-image">
-
           <picture>
             {% include normalized.html image_source="machine-menu.png" alt="Auto (machine) translated county website" %}
           </picture>
@@ -70,12 +67,10 @@ We have the option to submit a sitemap that details the structure of the webpage
     </div>
    </div>
 
-
  <div class="row">
      <div class="col s12 m7">
        <div class="card horizontal ">
          <div class="card-image">
-
            <picture>
              {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
            </picture>
@@ -88,9 +83,7 @@ We have the option to submit a sitemap that details the structure of the webpage
    </div>
 
 
-
-
-### Better examples of errors
+### Separately maintained translation
 
 <div class="row">
     <div class="col s12 m7">
@@ -111,9 +104,5 @@ The above has few, but markedly solid offerings.
 
 Why is this better?  In the first website, we try to show the distinction in meaning:
 
-"Things we have no problem with" to translate "Our facilities."
+"Things we have no problem with" is the resultant approximation in the attempt to machine-translate "Our facilities."
 In this context search tool *facilidades* does not appear at all:
-
-
-
-The fruits of our efforts point to a separately maintained translation.
