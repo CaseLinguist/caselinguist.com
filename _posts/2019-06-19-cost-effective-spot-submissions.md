@@ -10,6 +10,7 @@ published: true
 phrasing: Catch the glaringly wrong machine translations, and have an SEO (as translator) submit those to relevant search engines.
 closing: All the best,
 sitemap:
+  priority: 0.1
   changefreq: weekly
 ---
 <div class="row">

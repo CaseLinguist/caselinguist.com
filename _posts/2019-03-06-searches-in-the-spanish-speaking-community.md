@@ -11,7 +11,7 @@ phrasing: "I look forward to hearing from you and working together on how to imp
 closing: "All the best,"
 sitemap:
   changefreq: monthly
-  priority: 7
+  priority: 0.7
   images:
     - moz-abogado-volume.png
 ---
