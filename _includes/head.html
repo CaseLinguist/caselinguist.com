@@ -30,32 +30,12 @@
 
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
-  {% include google-analytics.html %}
+    {% include google-analytics.html %}
   {% endif %}
 
   {% if jekyll.environment == 'production' and site.chatra %}
     {% include chatra.html %}
   {% endif %}
-
-  <!-- Chatra {literal} -->
-
-
-
-  <script>
-      (function(d, w, c) {
-          w.ChatraID = 'RftcZGhX9LZETxsKY';
-          var s = d.createElement('script');
-          w[c] = w[c] || function() {
-              (w[c].q = w[c].q || []).push(arguments);
-          };
-          s.async = true;
-          s.src = 'https://call.chatra.io/chatra.js';
-          if (d.head) d.head.appendChild(s);
-      })(document, window, 'Chatra');
-  </script>
-  <!-- /Chatra {/literal} -->
-
-
 
 
   {% if jekyll.environment != 'production' %}
