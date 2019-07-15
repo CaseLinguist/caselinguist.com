@@ -8,31 +8,34 @@ exclude: true
   <h1 class="post-title">{{ page.title }}</h1>
 </header>
 
-<h2 class="flow-text">Pages by category</h2>
+<h2 class="flow-text">Pages by type</h2>
 
 <table>
   <thead>
     <tr>
-        <th>Categories</th>
-        <th>Link</th>
+        <th>Type</th>
+        <th>Page</th>
     </tr>
   </thead>
 
   <tbody>
-
-
-
-  {%- for category in site.categories -%}
-    {%- for post in category[1] -%}
+    {% for post in site.posts  %}
+      {% unless post.published == false %}
     <tr>
-      <td>{{ category[0] | replace: "-", " " }}</td>
-      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+      <td>Blog Post</td>
+      <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
     </tr>
-    {%- endfor -%}
+    {%- endunless -%}
   {%- endfor -%}
 
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude == "yes" or page.url == "/assets/main.css" %}
+    <tr>
+      <td>Webpage</td>
+      <td><a href="{{ site.url }}{{ page.url }}">{{ page.url}}</a></td>
+    </tr>
 
-
-
+    {% endunless %}
+    {% endfor %}
   </tbody>
 </table>
