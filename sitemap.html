@@ -19,14 +19,15 @@ exclude: true
   </thead>
 
   <tbody>
-    {% for post in site.posts  %}
+
+    {% for post in site.posts reversed  %}
       {% unless post.published == false %}
-    <tr>
-      <td>Blog Post</td>
-      <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
-    </tr>
-    {%- endunless -%}
-  {%- endfor -%}
+      <tr>
+        <td>Blog Post</td>
+        <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+      </tr>
+      {% endunless %}
+    {% endfor %}
 
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" or page.url == "/assets/main.css" %}
