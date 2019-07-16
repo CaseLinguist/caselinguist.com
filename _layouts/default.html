@@ -13,6 +13,15 @@
       </div>
     </main>
 
+    {% if page.schema.title and page.schema.description %}
+      {% unless page.schema.exclude == 'yes' %}
+        {% if page.schema %}
+          {% include json-ld/webpage.html title=page.schema.title description=page.schema.description %}
+        {% endif %}
+      {% endunless %}
+    {% endif %}
+
+
     {%- include footer.html -%}
     {%- include pro-footer.html -%}
 

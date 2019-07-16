@@ -5,6 +5,10 @@ permalink: /testimonials/
 my_client: Amy Do
 excerpt: |
   Read the recommendations: "Rene is extremely knowledgable in his field and explained complex concepts in a way that is easy to understand."
+schema:
+  title: Testimonials
+  description: |
+    Read the recommendations: Rene is extremely knowledgable in his field and explained complex concepts in a way that is easy to understand.
 ---
 ## Reviews
 

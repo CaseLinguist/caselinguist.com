@@ -32,7 +32,7 @@ layout: default
       {%- if page.phrasing and page.closing -%}
       <p>
         {%- include wrap.html phrasing=page.phrasing closing=page.closing -%}
-      </p>        
+      </p>
       {%- endif -%}
       <br/>
       <br/>
@@ -60,4 +60,4 @@ layout: default
 
 </article>
 
-{% include json-ld/webpage.html title=page.title description=page.excerpt %}
+{% include json-ld/webpage.html title=page.title description=page.excerpt is_blog="yes" %}
