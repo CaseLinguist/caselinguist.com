@@ -27,6 +27,18 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    {%- if page.author -%}
+      {%- if page.phrasing and page.closing -%}
+      <p>
+        {%- include wrap.html phrasing=page.phrasing closing=page.closing -%}
+      </p>        
+      {%- endif -%}
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}
@@ -36,14 +48,6 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
   {%- if page.author -%}
-    {%- if page.phrasing and page.closing -%}
-      {%- include wrap.html phrasing=page.phrasing closing=page.closing -%}
-    {%- endif -%}
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-
   <a href='{{ "/about/" | relative_url }}'>
     <div class="chip">
       <img src='/assets/images/rene-avatar.svg' alt="Contact Person Rene">
