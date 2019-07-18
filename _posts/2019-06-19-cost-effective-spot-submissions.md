@@ -48,53 +48,14 @@ We have the option to submit a sitemap that details the structure of the webpage
 
 ### Examples of Pitfalls
 
-<div class="row">
-    <div class="col s12 m7">
-      <div class="card horizontal ">
-        <div class="card-image">
-          <picture>
-            {% include normalized.html image_source="machine-menu.png" alt="Auto (machine) translated county website" %}
-          </picture>
-        </div>
-        <div class="card-content">
-          <p>Here is a translation example.</p>
-        </div>
-      </div>
-    </div>
-   </div>
+{% include figure.html image_source="machine-menu.png" alt="auto translated county website" %}   
 
- <div class="row">
-     <div class="col s12 m7">
-       <div class="card horizontal ">
-         <div class="card-image">
-           <picture>
-             {% include normalized.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
-           </picture>
-         </div>
-         <div class="card-content">
-           <p>This is the featured and passively translated page.</p>
-         </div>
-       </div>
-     </div>
-   </div>
+{% include figure.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
 
 
 ### Separately maintained translation
 
-<div class="row">
-    <div class="col s12 m7">
-      <div class="card small ">
-        <div class="card-image">
-          <picture>
-            {% include normalized.html image_source="solid-options.png" alt="website few but solid translation options" %}
-          </picture>
-        </div>
-        <div class="card-content">
-          <p>Going with targeted translation is thorough but not cost-effective.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+{% include figure.html image_source="solid-options.png" alt="website few but solid translation options" %}
 
 The above has few, but markedly solid offerings.  
 
