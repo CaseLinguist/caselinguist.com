@@ -37,8 +37,6 @@ Look on your website for a drop-down menu listing many different languages (see 
   </div>
 </div>
 
-<!-- <img class="materialboxed" src='{{ 'assets/images/machine-list-expanded.png' | relative_url }}' /> -->
-
 {% include apps/app-menu.html %}
 
 ## Why my services are cost-effective
