@@ -5,7 +5,7 @@ lang: en
 categories: Law-Firm-SEO
 tags: Law Technology
 author: Rene M. Paccha
-last_modified_at: 2019-07-13
+last_modified_at: 2019-07-18
 published: true
 phrasing: Catch the glaringly wrong machine translations, and have an SEO (as translator) submit those to relevant search engines.
 closing: All the best,
