@@ -1,0 +1,10 @@
+{% assign image_source = include.image_source  %}
+{% assign alt = include.alt  %}
+
+<div class="row">
+  <div class='col s12 m9 l6'>
+    <picture>
+      {% include normalized.html image_source alt %}
+    </picture>
+  </div>
+</div>

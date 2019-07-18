@@ -28,14 +28,7 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 Look on your website for a drop-down menu listing many different languages (see below).
 
-
-<div class="row">
-  <div class='col s12 m9 l6'>
-    <picture>
-      {% include normalized.html image_source="machine-list-expanded.png" alt="language options showing numerous options" %}
-    </picture>
-  </div>
-</div>
+{% include figure.html image_source="machine-list-expanded.png" alt="language options showing numerous options" %}
 
 {% include apps/app-menu.html %}
 
