@@ -13,21 +13,6 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 ---
-<div class="row">
-    <div class="col s12 m7">
-      <div class="card small ">
-        <div class="card-image">
-          <picture>
-            {% include normalized.html image_source="machine-list.jpg" alt="count website with translation offering showing over 30 language options" %}
-          </picture>
-          <span class="card-title black-text">All Languages</span>
-        </div>
-        <div class="card-content">
-          <p>The following should be our clue to indicate a drop-in list.</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
 Many business owners have turned to Google up to and including Bing to obtain automatically generated translations of their existing website content. We call these automatic translations _machine translations_.
 
@@ -38,6 +23,23 @@ Fortunately, an SEO expert with fluency in Spanish can help you avoid this pitfa
 Cost-effectiveness is one of the primary considerations for any small law firm considering SEO.
 I work to ensure cost-effectiveness through something called _spot submissions_.  
 A _spot submission_ is taking the glaringly obvious machine translation 'errors' and transforming them to fit the context and register.  Submitting those to Google, the machine translation rendered on the page has less opportunity to trip a person up.
+
+## How do you know if your website already uses machine translation?
+
+Look on your website for a drop-down menu listing many different languages (see below).
+
+
+<div class="row">
+  <div class='col s12 m9 l6'>
+    <picture>
+      {% include normalized.html image_source="machine-list-expanded.png" alt="language options showing numerous options" %}
+    </picture>
+  </div>
+</div>
+
+<!-- <img class="materialboxed" src='{{ 'assets/images/machine-list-expanded.png' | relative_url }}' /> -->
+
+{% include apps/app-menu.html %}
 
 ## Why my services are cost-effective
 
