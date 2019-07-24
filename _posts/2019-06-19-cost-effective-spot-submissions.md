@@ -26,15 +26,18 @@ A _spot submission_ is taking the glaringly obvious machine translation 'errors'
 
 ## How do you know if your website already uses machine translation?
 
-Look on your website for a drop-down menu listing many different languages (see below).
+Look on your website for a drop-down menu listing many different languages (see below). If you see a dropdown menu like this one, then you can pretty sure that your website is using machine translation. You know this because you most likely did not pay the translator to translate your website into all of these languages.
+
 
 {% include figure.html image_source="machine-list-expanded.png" alt="language options showing numerous options" %}
 
-{% include apps/app-menu.html %}
+A machine is making these translations on the basis of it's own internal dictionary.  Of course, the machine is vulnerable to making all of the literal word-to-word mistakes that a native speaker would avoid. For example you might use the word "facilities."  An English-to-Spanish machine might offer the literal translation, "things we have no problem with" (_facilidades_). Needless to say, this would confuse your readers.
+
 
 ## Why my services are cost-effective
 
-There are different stages of combining the necessary digital materials to construct a thorough website together with effective SEO. Having the benefit of all this website structure knowledge is tough.  Furthermore, being armed with this at the onset of website creation, is rare. Building upon the initial work, it is best to consider adding features to your web presence implementation as you and your company grow.
+Machine translation appeals to many business owners because, in most cases, it is free or inexpensive. However, it might bring unforeseen costs. For example, it might cause you to lose potential clients who leave your site in frustration. Google tracks this activity in the form of a "Bounce rate."  The higher your bounce rate ( i.e the more users who leave your site in a short matter of time ), the lower you will appear in Google searches.  Not only will you lose these frustrated users, you will miss out on future customers who search for your services.  By perfecting your website translation, I ensure that your content will make sense to Spanish speakers.  You will be much more likely to win their business.  In addition, because they spend more time reading your website, you will have a lower bounce rate, and will appear higher in Google searches overall.  This will help current and future clients to find your legal services.
+
 
 ### Significant considerations in integrating translations.
 
@@ -42,13 +45,14 @@ There are different stages of combining the necessary digital materials to const
 - Is it local? (yes we are)
 - Do you need to have a Spanish version of everything?
 
+
 ### On submitting targeted translations
 
 We have the option to submit a sitemap that details the structure of the webpage, so why not clue-in a web search engine into the correct intent through flag-in-the-sand translation?
 
 ### Examples of Pitfalls
 
-{% include figure.html image_source="machine-menu.png" alt="auto translated county website" %}   
+
 
 {% include figure.html image_source="machine-options-sink.png" alt="county website with translation offering" %}
 
@@ -61,5 +65,4 @@ The above has few, but markedly solid offerings.
 
 Why is this better?  In the first website, we try to show the distinction in meaning:
 
-"Things we have no problem with" is the resultant approximation in the attempt to machine-translate "Our facilities."
-In this context search tool *facilidades* does not appear at all:
+<!-- {% include figure.html image_source="machine-menu.png" alt="auto translated county website" %}    -->
