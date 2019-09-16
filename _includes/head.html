@@ -33,10 +33,6 @@
     {% include google-analytics.html %}
   {% endif %}
 
-  {% if jekyll.environment == 'production' and site.chatra %}
-    {% include chatra.html %}
-  {% endif %}
-
 
   {% if jekyll.environment != 'production' %}
     <script src="https://unpkg.com/shubox@0.2.1/dist/shubox.umd.js"></script>
